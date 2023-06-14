@@ -1,0 +1,1748 @@
+,home_team,away_team,home_is_winner,away_win_prob,home_win_prob
+3130,Milwaukee Brewers,Cincinnati Reds,1,0.44315553,0.5568445
+1788,Seattle Mariners,Houston Astros,1,0.43313998,0.56686
+1302,Cleveland Indians,Oakland Athletics,1,0.49196666,0.50803334
+1587,New York Yankees,Baltimore Orioles,1,0.43818521,0.5618148
+8250,Los Angeles Angels,Toronto Blue Jays,0,0.46397108,0.5360289
+320,Kansas City Royals,Chicago White Sox,0,0.5921446,0.4078554
+3241,Colorado Rockies,Los Angeles Dodgers,1,0.7065915,0.29340848
+4073,Atlanta Braves,Colorado Rockies,0,0.45919633,0.5408037
+5773,Colorado Rockies,Atlanta Braves,0,0.52164364,0.4783564
+4459,Houston Astros,Atlanta Braves,0,0.98771983,0.012280168
+3669,Colorado Rockies,San Diego Padres,1,0.523152,0.476848
+2696,Oakland Athletics,Arizona Diamondbacks,1,0.25890112,0.7410989
+578,Oakland Athletics,Arizona Diamondbacks,1,0.39437497,0.60562503
+6322,Chicago White Sox,Detroit Tigers,0,0.21176517,0.78823483
+323,San Francisco Giants,Texas Rangers,1,0.4529243,0.5470757
+853,Washington Nationals,Atlanta Braves,0,0.47484303,0.525157
+2681,Philadelphia Phillies,Atlanta Braves,1,0.41560555,0.58439445
+4889,Chicago White Sox,Seattle Mariners,1,0.45686263,0.5431374
+966,Chicago Cubs,Minnesota Twins,0,0.419402,0.580598
+3062,Atlanta Braves,Miami Marlins,0,0.42180395,0.57819605
+8844,Minnesota Twins,Kansas City Royals,1,0.46490127,0.53509873
+8864,Chicago White Sox,Tampa Bay Rays,0,0.6957214,0.30427864
+8314,San Francisco Giants,Kansas City Royals,1,0.42223865,0.57776135
+5193,Kansas City Royals,New York Yankees,0,0.7162,0.2838
+3007,Oakland Athletics,Texas Rangers,1,0.36229646,0.63770354
+7011,Chicago Cubs,Milwaukee Brewers,1,0.5011966,0.49880338
+5792,Chicago Cubs,St. Louis Cardinals,0,0.6014925,0.39850748
+7923,Houston Astros,Philadelphia Phillies,1,0.022052824,0.9779472
+5663,Detroit Tigers,Cleveland Guardians,0,0.63509077,0.36490923
+80,Oakland Athletics,Los Angeles Angels,1,0.3378762,0.6621238
+2569,Colorado Rockies,Texas Rangers,1,0.44315553,0.5568445
+4525,Houston Astros,Atlanta Braves,0,0.98771983,0.012280168
+4962,Seattle Mariners,Houston Astros,1,0.5078609,0.49213913
+327,Chicago Cubs,Pittsburgh Pirates,1,0.37316722,0.6268328
+1876,Seattle Mariners,Los Angeles Dodgers,0,0.23026496,0.76973504
+8036,Los Angeles Dodgers,Arizona Diamondbacks,1,0.27230054,0.72769946
+1177,Los Angeles Dodgers,Tampa Bay Rays,1,0.108905554,0.89109445
+3211,Arizona Diamondbacks,Chicago Cubs,0,0.5941303,0.40586972
+2717,Oakland Athletics,Kansas City Royals,1,0.3892247,0.6107753
+5177,Tampa Bay Rays,Minnesota Twins,1,0.427431,0.572569
+1654,Pittsburgh Pirates,Chicago Cubs,1,0.43818521,0.5618148
+690,Arizona Diamondbacks,San Francisco Giants,0,0.41809398,0.581906
+3327,Los Angeles Dodgers,Colorado Rockies,1,0.3156827,0.6843173
+1029,Kansas City Royals,Detroit Tigers,1,0.419402,0.580598
+8331,Colorado Rockies,Washington Nationals,1,0.45883304,0.54116696
+4495,Houston Astros,Atlanta Braves,0,0.98771983,0.012280168
+1814,New York Yankees,Tampa Bay Rays,0,0.48912615,0.51087385
+4604,Milwaukee Brewers,San Diego Padres,1,0.4092304,0.5907696
+7517,Colorado Rockies,San Francisco Giants,0,0.3865555,0.6134445
+6855,Houston Astros,Texas Rangers,1,0.529268,0.47073194
+1044,St. Louis Cardinals,Milwaukee Brewers,0,0.43537134,0.56462866
+1184,Los Angeles Dodgers,Tampa Bay Rays,1,0.108905554,0.89109445
+7370,Pittsburgh Pirates,St. Louis Cardinals,0,0.8239441,0.1760559
+1175,Los Angeles Dodgers,Tampa Bay Rays,1,0.108905554,0.89109445
+1605,Houston Astros,Oakland Athletics,1,0.37762266,0.62237734
+4903,Pittsburgh Pirates,Chicago Cubs,1,0.62446,0.37554
+95,St. Louis Cardinals,Pittsburgh Pirates,1,0.28565753,0.7143425
+6015,Cincinnati Reds,Milwaukee Brewers,0,0.5728184,0.4271816
+7731,Los Angeles Dodgers,Colorado Rockies,0,0.5617279,0.43827215
+5606,Seattle Mariners,Oakland Athletics,0,0.4540134,0.5459866
+8945,Los Angeles Dodgers,St. Louis Cardinals,1,0.25136632,0.7486337
+2778,Kansas City Royals,Detroit Tigers,0,0.3463592,0.6536408
+1490,San Diego Padres,Arizona Diamondbacks,0,0.58244824,0.41755176
+5674,New York Mets,Philadelphia Phillies,1,0.5105165,0.4894835
+6616,Kansas City Royals,Los Angeles Angels,0,0.4293821,0.5706179
+5618,St. Louis Cardinals,Milwaukee Brewers,0,0.48607534,0.51392466
+4730,Detroit Tigers,New York Yankees,0,0.46195596,0.53804404
+521,Arizona Diamondbacks,San Diego Padres,1,0.6085829,0.3914171
+2496,Pittsburgh Pirates,Chicago Cubs,0,0.5651404,0.43485957
+3105,Houston Astros,Oakland Athletics,0,0.43797803,0.562022
+4446,Houston Astros,Atlanta Braves,0,0.98771983,0.012280168
+2271,Washington Nationals,Philadelphia Phillies,0,0.5270424,0.4729576
+7906,Houston Astros,Philadelphia Phillies,1,0.022052824,0.9779472
+4141,New York Yankees,Cleveland Indians,0,0.21722972,0.7827703
+14,Washington Nationals,New York Yankees,0,0.7916565,0.20834354
+1021,Atlanta Braves,Boston Red Sox,1,0.4106331,0.5893669
+5462,Miami Marlins,Washington Nationals,1,0.42194045,0.57805955
+3999,Cleveland Indians,Minnesota Twins,1,0.43126744,0.56873256
+3921,Cincinnati Reds,Detroit Tigers,1,0.4396727,0.5603273
+367,Oakland Athletics,Texas Rangers,1,0.2804222,0.7195778
+7009,Pittsburgh Pirates,Cincinnati Reds,1,0.67209685,0.32790315
+8400,Philadelphia Phillies,Miami Marlins,0,0.38888323,0.61111677
+2078,Los Angeles Dodgers,Cincinnati Reds,1,0.48125792,0.5187421
+789,Atlanta Braves,Miami Marlins,0,0.40340805,0.59659195
+741,Philadelphia Phillies,Washington Nationals,1,0.4106331,0.5893669
+4297,Toronto Blue Jays,New York Yankees,0,0.34899145,0.65100855
+5334,New York Yankees,Texas Rangers,0,0.4495324,0.5504676
+3517,Colorado Rockies,Miami Marlins,1,0.48794508,0.5120549
+8657,Arizona Diamondbacks,San Diego Padres,1,0.50952625,0.49047375
+6674,New York Yankees,Kansas City Royals,0,0.21328187,0.78671813
+6859,Colorado Rockies,St. Louis Cardinals,1,0.6164923,0.38350776
+4599,Toronto Blue Jays,Pittsburgh Pirates,1,0.4092304,0.5907696
+3086,Kansas City Royals,Cincinnati Reds,0,0.44315553,0.5568445
+3292,New York Mets,Toronto Blue Jays,1,0.3812486,0.6187514
+3615,Seattle Mariners,Toronto Blue Jays,1,0.653054,0.34694603
+8483,Houston Astros,Texas Rangers,0,0.37078393,0.6292161
+4767,Los Angeles Angels,Los Angeles Dodgers,1,0.46195596,0.53804404
+4172,Colorado Rockies,Los Angeles Dodgers,0,0.7180085,0.28199148
+1688,Kansas City Royals,Los Angeles Angels,1,0.5044495,0.49555048
+3400,Miami Marlins,New York Yankees,0,0.653054,0.34694603
+4540,Houston Astros,Atlanta Braves,0,0.98771983,0.012280168
+8061,St. Louis Cardinals,Toronto Blue Jays,0,0.38306373,0.61693627
+1099,Tampa Bay Rays,Houston Astros,0,0.31148088,0.6885191
+7342,Minnesota Twins,Cleveland Guardians,0,0.5191012,0.4808988
+7140,St. Louis Cardinals,Atlanta Braves,1,0.46570003,0.53429997
+1636,Houston Astros,Oakland Athletics,0,0.4604516,0.5395484
+239,Tampa Bay Rays,Toronto Blue Jays,1,0.5862223,0.4137777
+5428,Arizona Diamondbacks,Chicago Cubs,0,0.47924358,0.5207564
+1707,Atlanta Braves,Miami Marlins,0,0.43818521,0.5618148
+8672,Minnesota Twins,Washington Nationals,0,0.5494935,0.4505065
+6386,Atlanta Braves,New York Mets,0,0.46729803,0.53270197
+2296,Minnesota Twins,Oakland Athletics,1,0.50320315,0.49679682
+3431,San Francisco Giants,Houston Astros,1,0.5041475,0.49585247
+6448,St. Louis Cardinals,Cincinnati Reds,1,0.42265844,0.57734156
+4034,Los Angeles Dodgers,San Diego Padres,1,0.3643604,0.6356396
+5640,Cincinnati Reds,San Francisco Giants,1,0.701398,0.29860196
+7003,Colorado Rockies,San Francisco Giants,1,0.6559682,0.34403184
+2094,Texas Rangers,Boston Red Sox,0,0.54624104,0.45375898
+2902,Philadelphia Phillies,Washington Nationals,0,0.49623317,0.50376683
+4220,Los Angeles Angels,Seattle Mariners,0,0.44620627,0.5537937
+4571,Pittsburgh Pirates,New York Yankees,1,0.4045295,0.5954705
+5181,Milwaukee Brewers,Chicago Cubs,1,0.35012013,0.6498799
+7805,Atlanta Braves,Philadelphia Phillies,0,0.44326138,0.5567386
+1619,Cleveland Indians,Detroit Tigers,1,0.43818521,0.5618148
+4595,Cincinnati Reds,San Francisco Giants,1,0.4092304,0.5907696
+3217,St. Louis Cardinals,San Francisco Giants,1,0.5149231,0.48507693
+6825,Chicago Cubs,Washington Nationals,1,0.37023765,0.62976235
+3694,St. Louis Cardinals,Milwaukee Brewers,1,0.6882405,0.31175944
+5858,Detroit Tigers,Toronto Blue Jays,0,0.65389514,0.3461049
+1089,Los Angeles Dodgers,Atlanta Braves,0,0.31554723,0.6844528
+3413,San Francisco Giants,Houston Astros,1,0.5662018,0.4337982
+4565,Houston Astros,Atlanta Braves,0,0.98771983,0.012280168
+2273,Milwaukee Brewers,St. Louis Cardinals,1,0.32775444,0.67224556
+6779,New York Mets,Atlanta Braves,1,0.47447926,0.52552074
+5888,New York Yankees,Chicago Cubs,1,0.35571408,0.6442859
+4544,Houston Astros,Atlanta Braves,0,0.98771983,0.012280168
+2955,Texas Rangers,Kansas City Royals,1,0.41403705,0.58596295
+1223,Los Angeles Dodgers,Tampa Bay Rays,1,0.108905554,0.89109445
+8732,Los Angeles Angels,Kansas City Royals,1,0.43302166,0.56697834
+496,Los Angeles Angels,Los Angeles Dodgers,0,0.5141455,0.48585448
+3872,Arizona Diamondbacks,San Diego Padres,0,0.5996187,0.40038133
+3467,Colorado Rockies,Chicago Cubs,0,0.5053202,0.4946798
+4511,Houston Astros,Atlanta Braves,0,0.98771983,0.012280168
+6745,Detroit Tigers,Tampa Bay Rays,0,0.67205524,0.32794473
+2345,Minnesota Twins,Chicago White Sox,0,0.4863643,0.5136357
+5574,New York Yankees,Baltimore Orioles,0,0.3069412,0.6930588
+2415,San Diego Padres,Seattle Mariners,1,0.24354964,0.75645036
+5408,Oakland Athletics,Los Angeles Angels,1,0.60246265,0.39753738
+1481,Cincinnati Reds,St. Louis Cardinals,1,0.47249573,0.52750427
+2931,Milwaukee Brewers,Colorado Rockies,1,0.36362082,0.6363792
+8135,St. Louis Cardinals,Atlanta Braves,0,0.46397108,0.5360289
+1954,Atlanta Braves,Arizona Diamondbacks,1,0.46633828,0.5336617
+2976,Boston Red Sox,Kansas City Royals,1,0.38748646,0.61251354
+8579,Detroit Tigers,Cleveland Guardians,1,0.59004104,0.40995896
+6727,San Francisco Giants,Los Angeles Dodgers,0,0.5646734,0.43532658
+8052,Washington Nationals,Atlanta Braves,0,0.6870756,0.3129244
+3129,Seattle Mariners,New York Yankees,1,0.6023663,0.39763364
+1532,San Diego Padres,San Francisco Giants,0,0.49876177,0.5012382
+3833,Minnesota Twins,Milwaukee Brewers,1,0.5732464,0.42675358
+548,Los Angeles Angels,San Francisco Giants,0,0.18140215,0.81859785
+6461,New York Yankees,Boston Red Sox,0,0.3947906,0.6052094
+6978,Los Angeles Angels,Seattle Mariners,0,0.71688586,0.28311414
+3576,Houston Astros,Colorado Rockies,1,0.3172148,0.6827852
+6369,Baltimore Orioles,Los Angeles Angels,1,0.53585273,0.46414727
+6904,Colorado Rockies,Arizona Diamondbacks,0,0.59157085,0.40842912
+3190,Boston Red Sox,Philadelphia Phillies,0,0.46828932,0.5317107
+3570,Cleveland Indians,Oakland Athletics,0,0.57007706,0.42992294
+2167,Seattle Mariners,Baltimore Orioles,0,0.4201845,0.5798155
+4985,Chicago White Sox,Tampa Bay Rays,0,0.48510128,0.5148987
+6738,Los Angeles Angels,Oakland Athletics,0,0.4871958,0.5128042
+8224,Oakland Athletics,Cleveland Guardians,1,0.50903785,0.49096212
+8195,Los Angeles Dodgers,Colorado Rockies,1,0.3515377,0.6484623
+6516,Baltimore Orioles,New York Yankees,0,0.5101601,0.48983988
+222,Philadelphia Phillies,Miami Marlins,0,0.45698804,0.54301196
+6898,St. Louis Cardinals,Milwaukee Brewers,1,0.565647,0.43435302
+3719,New York Yankees,Minnesota Twins,1,0.19679022,0.8032098
+8094,Boston Red Sox,Baltimore Orioles,1,0.4064834,0.5935166
+6482,Houston Astros,Oakland Athletics,1,0.4081514,0.5918486
+6493,Chicago Cubs,New York Mets,0,0.58101624,0.41898376
+6378,San Diego Padres,San Francisco Giants,0,0.48114592,0.5188541
+1576,New York Yankees,Baltimore Orioles,0,0.4841745,0.5158255
+1096,Houston Astros,Tampa Bay Rays,1,0.5407336,0.4592664
+4529,Houston Astros,Atlanta Braves,0,0.98771983,0.012280168
+8095,New York Yankees,San Francisco Giants,1,0.4064834,0.5935166
+5174,Pittsburgh Pirates,San Diego Padres,0,0.44670403,0.55329597
+4507,Houston Astros,Atlanta Braves,0,0.98771983,0.012280168
+947,Houston Astros,Arizona Diamondbacks,1,0.4106331,0.5893669
+5068,Arizona Diamondbacks,New York Mets,1,0.5824001,0.41759995
+7282,Los Angeles Angels,Detroit Tigers,1,0.50699466,0.49300534
+3495,Cleveland Indians,Detroit Tigers,1,0.48713374,0.51286626
+4852,Los Angeles Angels,Houston Astros,1,0.63727874,0.36272126
+1909,Colorado Rockies,Houston Astros,1,0.6284194,0.37158057
+5480,Kansas City Royals,Chicago White Sox,1,0.6849962,0.3150038
+8729,Milwaukee Brewers,Boston Red Sox,0,0.4511447,0.5488553
+658,Atlanta Braves,New York Yankees,1,0.4048152,0.5951848
+8748,Texas Rangers,Oakland Athletics,1,0.26698893,0.73301107
+8387,Los Angeles Angels,Washington Nationals,1,0.20947516,0.79052484
+991,Washington Nationals,Philadelphia Phillies,1,0.6116674,0.38833264
+7633,Pittsburgh Pirates,Cincinnati Reds,1,0.41292512,0.5870749
+221,Tampa Bay Rays,Toronto Blue Jays,0,0.530701,0.46929902
+4949,Miami Marlins,Philadelphia Phillies,0,0.55343384,0.44656616
+5568,Los Angeles Angels,Oakland Athletics,1,0.38966817,0.61033183
+1725,Atlanta Braves,Miami Marlins,0,0.37920958,0.6207904
+23,Los Angeles Dodgers,San Francisco Giants,1,0.032570004,0.96743
+953,Seattle Mariners,San Diego Padres,0,0.53105533,0.46894467
+1569,Seattle Mariners,Chicago White Sox,1,0.46361506,0.53638494
+2911,New York Yankees,Kansas City Royals,1,0.34769493,0.65230507
+7787,Toronto Blue Jays,Seattle Mariners,0,0.43500793,0.5649921
+7012,Baltimore Orioles,Boston Red Sox,0,0.5418694,0.45813063
+6507,Houston Astros,New York Yankees,1,0.43563282,0.5643672
+7295,Kansas City Royals,Cleveland Guardians,0,0.82756203,0.17243797
+1428,Detroit Tigers,Cleveland Indians,1,0.6855633,0.31443667
+6580,Chicago Cubs,Pittsburgh Pirates,1,0.47990018,0.5200998
+8462,Houston Astros,Texas Rangers,1,0.52353776,0.47646227
+4510,Houston Astros,Atlanta Braves,0,0.98771983,0.012280168
+5905,Houston Astros,Miami Marlins,1,0.24044687,0.75955313
+4833,Atlanta Braves,Cincinnati Reds,1,0.31146157,0.68853843
+1330,Toronto Blue Jays,Detroit Tigers,1,0.4166535,0.5833465
+5738,Miami Marlins,San Francisco Giants,1,0.4574892,0.5425108
+93,Chicago White Sox,Minnesota Twins,0,0.4131074,0.5868926
+4374,San Francisco Giants,Los Angeles Dodgers,1,0.42819494,0.57180506
+6040,Pittsburgh Pirates,Chicago Cubs,1,0.45409817,0.54590183
+4286,Colorado Rockies,Washington Nationals,1,0.44780767,0.55219233
+2524,Tampa Bay Rays,Philadelphia Phillies,1,0.44315553,0.5568445
+7094,Los Angeles Dodgers,Milwaukee Brewers,1,0.16704851,0.8329515
+3120,Minnesota Twins,Chicago White Sox,0,0.42180395,0.57819605
+1104,Los Angeles Dodgers,Tampa Bay Rays,1,0.3447681,0.6552319
+565,Pittsburgh Pirates,Cleveland Indians,0,0.45136935,0.54863065
+8142,Milwaukee Brewers,New York Mets,1,0.42944372,0.5705563
+6238,Los Angeles Dodgers,San Diego Padres,1,0.44748992,0.5525101
+3094,Minnesota Twins,Chicago White Sox,0,0.5173551,0.48264492
+1971,St. Louis Cardinals,Cincinnati Reds,1,0.42180395,0.57819605
+5001,Chicago Cubs,Tampa Bay Rays,0,0.44853836,0.55146164
+1628,New York Mets,Miami Marlins,0,0.1628713,0.8371287
+340,Arizona Diamondbacks,Los Angeles Dodgers,0,0.49058497,0.50941503
+6935,Cincinnati Reds,Philadelphia Phillies,0,0.6178285,0.3821715
+7205,Chicago White Sox,Kansas City Royals,1,0.44589174,0.55410826
+4453,Houston Astros,Atlanta Braves,0,0.98771983,0.012280168
+2373,San Diego Padres,Colorado Rockies,1,0.066616595,0.9333834
+2430,Colorado Rockies,Arizona Diamondbacks,1,0.5103827,0.4896173
+33,Chicago White Sox,Minnesota Twins,0,0.4131074,0.5868926
+6786,Detroit Tigers,Tampa Bay Rays,1,0.73152506,0.26847497
+7095,Boston Red Sox,Toronto Blue Jays,0,0.6513027,0.34869727
+4727,Baltimore Orioles,Philadelphia Phillies,1,0.46195596,0.53804404
+2799,Oakland Athletics,Los Angeles Angels,1,0.42180395,0.57819605
+2333,Chicago White Sox,Kansas City Royals,1,0.40620005,0.59379995
+6065,Milwaukee Brewers,St. Louis Cardinals,1,0.5077145,0.4922855
+2849,Seattle Mariners,Tampa Bay Rays,1,0.5270424,0.4729576
+4804,Los Angeles Angels,Houston Astros,0,0.3711859,0.6288141
+8802,Atlanta Braves,Miami Marlins,1,0.38763142,0.6123686
+7916,Houston Astros,Philadelphia Phillies,1,0.022052824,0.9779472
+5072,Philadelphia Phillies,Milwaukee Brewers,0,0.40659374,0.59340626
+2398,Toronto Blue Jays,Boston Red Sox,0,0.41560555,0.58439445
+1225,Los Angeles Dodgers,Tampa Bay Rays,1,0.108905554,0.89109445
+4887,Pittsburgh Pirates,Chicago Cubs,0,0.5634193,0.43658072
+212,St. Louis Cardinals,Pittsburgh Pirates,1,0.24966729,0.7503327
+8321,Detroit Tigers,Boston Red Sox,0,0.38306373,0.61693627
+88,Cleveland Indians,Kansas City Royals,1,0.1415211,0.8584789
+4010,St. Louis Cardinals,Cincinnati Reds,1,0.5337988,0.4662012
+2370,Oakland Athletics,Houston Astros,0,0.5007578,0.49924222
+6140,Minnesota Twins,Colorado Rockies,1,0.3067873,0.6932127
+6190,Seattle Mariners,Baltimore Orioles,1,0.33362633,0.66637367
+1451,Kansas City Royals,Texas Rangers,1,0.5122075,0.48779246
+2575,Los Angeles Dodgers,St. Louis Cardinals,0,0.29031074,0.70968926
+8538,San Diego Padres,Milwaukee Brewers,0,0.5428974,0.4571026
+2328,Pittsburgh Pirates,San Francisco Giants,0,0.50249374,0.49750623
+4787,Atlanta Braves,Tampa Bay Rays,1,0.36526144,0.63473856
+7274,Cincinnati Reds,Colorado Rockies,1,0.46299195,0.53700805
+353,Los Angeles Angels,Houston Astros,0,0.53459483,0.46540517
+7655,Minnesota Twins,Chicago White Sox,1,0.33458096,0.66541904
+6546,Oakland Athletics,Texas Rangers,1,0.49902028,0.5009797
+1561,Oakland Athletics,Los Angeles Dodgers,0,0.43818521,0.5618148
+3276,Detroit Tigers,Texas Rangers,1,0.45709854,0.54290146
+4361,Los Angeles Dodgers,St. Louis Cardinals,1,0.16020805,0.83979195
+1938,Boston Red Sox,Seattle Mariners,0,0.46633828,0.5336617
+4250,Colorado Rockies,San Francisco Giants,0,0.53079796,0.46920204
+934,Houston Astros,Arizona Diamondbacks,1,0.4106331,0.5893669
+7786,St. Louis Cardinals,Philadelphia Phillies,0,0.4064834,0.5935166
+8877,Boston Red Sox,Cleveland Guardians,1,0.37453222,0.6254678
+505,Houston Astros,Seattle Mariners,1,0.32009506,0.67990494
+904,Philadelphia Phillies,New York Mets,0,0.5136157,0.4863843
+8637,New York Yankees,Los Angeles Angels,1,0.4511447,0.5488553
+8021,New York Yankees,Detroit Tigers,1,0.2906322,0.7093678
+3573,Minnesota Twins,Chicago White Sox,1,0.7144985,0.28550145
+6850,Philadelphia Phillies,Miami Marlins,1,0.4587801,0.5412199
+3356,Kansas City Royals,Chicago White Sox,0,0.6178468,0.3821532
+6234,Seattle Mariners,Oakland Athletics,0,0.3921311,0.6078689
+8906,Washington Nationals,Pittsburgh Pirates,0,0.5941082,0.4058918
+17,Los Angeles Dodgers,San Francisco Giants,1,0.08362508,0.9163749
+5079,San Diego Padres,Los Angeles Dodgers,0,0.49410874,0.50589126
+5444,Colorado Rockies,Kansas City Royals,1,0.4574892,0.5425108
+7895,Houston Astros,Philadelphia Phillies,1,0.022052824,0.9779472
+6111,Tampa Bay Rays,Pittsburgh Pirates,1,0.40434462,0.5956554
+4192,Milwaukee Brewers,St. Louis Cardinals,0,0.5392898,0.46071023
+3426,San Diego Padres,Colorado Rockies,1,0.3686837,0.6313163
+6858,Colorado Rockies,St. Louis Cardinals,0,0.6164923,0.38350776
+2810,Los Angeles Angels,Detroit Tigers,1,0.1787076,0.8212924
+1424,Boston Red Sox,Atlanta Braves,0,0.42751122,0.5724888
+4914,Arizona Diamondbacks,Houston Astros,0,0.59183925,0.40816075
+2403,Atlanta Braves,Pittsburgh Pirates,1,0.3432238,0.6567762
+8809,Minnesota Twins,New York Yankees,0,0.39689463,0.60310537
+3291,Boston Red Sox,New York Yankees,1,0.44944465,0.55055535
+1849,Miami Marlins,San Francisco Giants,1,0.43818521,0.5618148
+5076,Houston Astros,Toronto Blue Jays,0,0.7130487,0.2869513
+2245,Pittsburgh Pirates,Cincinnati Reds,0,0.4887498,0.5112502
+7660,Seattle Mariners,Texas Rangers,1,0.38008118,0.6199188
+8104,Los Angeles Dodgers,Arizona Diamondbacks,0,0.4064834,0.5935166
+1714,San Francisco Giants,Cincinnati Reds,0,0.43818521,0.5618148
+5610,Houston Astros,Cleveland Guardians,1,0.37138933,0.6286107
+1731,Houston Astros,Detroit Tigers,0,0.37920958,0.6207904
+4935,Chicago White Sox,Tampa Bay Rays,1,0.47364426,0.52635574
+3376,Los Angeles Angels,Colorado Rockies,1,0.4418149,0.5581851
+3952,New York Yankees,Toronto Blue Jays,0,0.45835942,0.5416406
+4395,Chicago White Sox,Houston Astros,0,0.4039269,0.5960731
+5749,Oakland Athletics,Boston Red Sox,0,0.51928806,0.48071194
+5644,Minnesota Twins,Kansas City Royals,0,0.47164458,0.5283554
+4452,Houston Astros,Atlanta Braves,0,0.98771983,0.012280168
+360,New York Yankees,Philadelphia Phillies,1,0.14552641,0.8544736
+1460,Miami Marlins,Tampa Bay Rays,0,0.47735322,0.5226468
+1118,Los Angeles Dodgers,Tampa Bay Rays,1,0.108905554,0.89109445
+2032,Milwaukee Brewers,Miami Marlins,0,0.4504745,0.5495255
+8738,Philadelphia Phillies,Colorado Rockies,1,0.201882,0.798118
+4960,Milwaukee Brewers,St. Louis Cardinals,0,0.49624932,0.5037507
+1106,Tampa Bay Rays,Los Angeles Dodgers,0,0.52551234,0.47448766
+1190,Los Angeles Dodgers,Tampa Bay Rays,1,0.108905554,0.89109445
+5694,Philadelphia Phillies,San Francisco Giants,0,0.5599376,0.4400624
+8327,Minnesota Twins,Houston Astros,0,0.43643868,0.5635613
+3955,Chicago Cubs,Cincinnati Reds,1,0.6134584,0.38654158
+5328,Los Angeles Angels,Washington Nationals,1,0.33268827,0.6673117
+8562,Kansas City Royals,Texas Rangers,0,0.6441461,0.3558539
+6610,Arizona Diamondbacks,San Francisco Giants,1,0.387079,0.612921
+2624,Kansas City Royals,Minnesota Twins,0,0.45811546,0.54188454
+3504,Milwaukee Brewers,San Francisco Giants,0,0.47889417,0.5211058
+8587,Chicago White Sox,Philadelphia Phillies,0,0.58885866,0.41114134
+7216,Arizona Diamondbacks,Milwaukee Brewers,1,0.5733502,0.42664978
+1604,Toronto Blue Jays,Los Angeles Angels,0,0.44594562,0.5540544
+4205,San Diego Padres,San Francisco Giants,0,0.41354764,0.58645236
+8397,Colorado Rockies,St. Louis Cardinals,0,0.69472045,0.30527955
+3511,Chicago Cubs,Chicago White Sox,0,0.69466877,0.30533126
+6258,Los Angeles Dodgers,San Diego Padres,0,0.3420875,0.6579125
+519,Colorado Rockies,Texas Rangers,0,0.32796514,0.67203486
+6590,Los Angeles Dodgers,Washington Nationals,0,0.24382961,0.7561704
+4570,St. Louis Cardinals,Houston Astros,1,0.40308797,0.596912
+2144,Minnesota Twins,Texas Rangers,1,0.40135944,0.59864056
+7791,St. Louis Cardinals,Philadelphia Phillies,0,0.41606402,0.583936
+308,Minnesota Twins,Cleveland Indians,0,0.50481653,0.49518347
+185,Chicago Cubs,Milwaukee Brewers,1,0.3378762,0.6621238
+2662,Pittsburgh Pirates,Los Angeles Dodgers,0,0.61623037,0.3837696
+1227,Los Angeles Dodgers,Tampa Bay Rays,1,0.108905554,0.89109445
+5038,Miami Marlins,St. Louis Cardinals,0,0.43367487,0.5663251
+7439,Texas Rangers,Oakland Athletics,0,0.32418483,0.67581517
+7391,Seattle Mariners,Atlanta Braves,1,0.4774897,0.5225103
+5678,San Diego Padres,Pittsburgh Pirates,1,0.45468265,0.54531735
+1074,San Diego Padres,St. Louis Cardinals,1,0.36054116,0.63945884
+7473,St. Louis Cardinals,Cincinnati Reds,1,0.18084854,0.81915146
+7409,Washington Nationals,Baltimore Orioles,0,0.68052113,0.31947887
+1251,Detroit Tigers,Philadelphia Phillies,0,0.49196666,0.50803334
+7106,Oakland Athletics,New York Yankees,0,0.58980256,0.41019744
+7102,Seattle Mariners,Cleveland Guardians,1,0.6360887,0.36391124
+1155,Los Angeles Dodgers,Tampa Bay Rays,1,0.108905554,0.89109445
+3057,Pittsburgh Pirates,Milwaukee Brewers,0,0.5763173,0.42368272
+8222,Houston Astros,Detroit Tigers,0,0.22526252,0.7747375
+6846,San Diego Padres,San Francisco Giants,1,0.47678822,0.5232118
+7811,Houston Astros,Seattle Mariners,1,0.3728093,0.6271907
+8545,Cincinnati Reds,Tampa Bay Rays,1,0.8227597,0.17724033
+4231,Cincinnati Reds,Washington Nationals,1,0.301553,0.698447
+3905,Cincinnati Reds,Detroit Tigers,0,0.41077012,0.5892299
+6500,San Diego Padres,Arizona Diamondbacks,1,0.95740795,0.042592052
+3396,San Diego Padres,Colorado Rockies,0,0.42613155,0.57386845
+7291,Philadelphia Phillies,Miami Marlins,1,0.16011268,0.8398873
+1196,Los Angeles Dodgers,Tampa Bay Rays,1,0.108905554,0.89109445
+6504,Miami Marlins,Texas Rangers,0,0.49890327,0.5010967
+6522,Los Angeles Dodgers,San Francisco Giants,1,0.3933881,0.6066119
+3409,Tampa Bay Rays,Boston Red Sox,1,0.46468842,0.5353116
+8012,New York Yankees,Detroit Tigers,1,0.2906322,0.7093678
+7024,Colorado Rockies,San Francisco Giants,0,0.6935208,0.30647925
+5078,San Diego Padres,Los Angeles Dodgers,1,0.49410874,0.50589126
+7413,Texas Rangers,Oakland Athletics,1,0.37969238,0.6203076
+245,Boston Red Sox,Baltimore Orioles,0,0.59102964,0.40897036
+1622,Texas Rangers,San Diego Padres,0,0.43818521,0.5618148
+5933,Arizona Diamondbacks,Cincinnati Reds,0,0.48607534,0.51392466
+3148,Seattle Mariners,Los Angeles Angels,1,0.5289053,0.47109476
+6296,Chicago White Sox,Minnesota Twins,0,0.49890327,0.5010967
+4262,Detroit Tigers,Chicago White Sox,0,0.5538614,0.44613862
+3858,Los Angeles Dodgers,Atlanta Braves,1,0.42613155,0.57386845
+6591,Los Angeles Dodgers,Washington Nationals,1,0.24382961,0.7561704
+8060,Miami Marlins,New York Mets,0,0.50903785,0.49096212
+2297,Seattle Mariners,Cleveland Indians,1,0.5173551,0.48264492
+756,San Francisco Giants,Arizona Diamondbacks,0,0.39412844,0.60587156
+437,Milwaukee Brewers,Cincinnati Reds,1,0.34952426,0.65047574
+8514,Miami Marlins,Arizona Diamondbacks,0,0.6441461,0.3558539
+4801,Atlanta Braves,Cincinnati Reds,0,0.3061182,0.6938818
+6914,San Francisco Giants,Pittsburgh Pirates,1,0.1533165,0.8466835
+771,Oakland Athletics,San Diego Padres,1,0.48058957,0.51941043
+7357,Chicago Cubs,San Francisco Giants,0,0.3864628,0.6135372
+5392,Minnesota Twins,Houston Astros,0,0.61202943,0.38797057
+4170,Tampa Bay Rays,Toronto Blue Jays,0,0.51990783,0.4800922
+3072,Los Angeles Angels,Baltimore Orioles,1,0.12227392,0.8777261
+3913,Chicago Cubs,Pittsburgh Pirates,1,0.45835942,0.5416406
+6656,Boston Red Sox,Milwaukee Brewers,0,0.5610424,0.43895757
+723,Boston Red Sox,Atlanta Braves,0,0.4374845,0.5625155
+1065,San Diego Padres,St. Louis Cardinals,0,0.4106331,0.5893669
+8940,Colorado Rockies,Arizona Diamondbacks,0,0.29307997,0.70692
+233,Houston Astros,Seattle Mariners,1,0.11257881,0.8874212
+4078,Seattle Mariners,Boston Red Sox,0,0.54717636,0.4528236
+3937,Washington Nationals,New York Mets,0,0.5777771,0.4222229
+8684,San Francisco Giants,New York Mets,0,0.46493167,0.53506833
+5634,Oakland Athletics,Texas Rangers,0,0.49875164,0.50124836
+2020,Boston Red Sox,Seattle Mariners,1,0.45799106,0.54200894
+1365,Chicago White Sox,Cincinnati Reds,1,0.43640107,0.56359893
+8638,Boston Red Sox,Minnesota Twins,1,0.4668079,0.5331921
+5452,Tampa Bay Rays,Detroit Tigers,0,0.4869362,0.5130638
+2767,New York Mets,Chicago Cubs,1,0.33916658,0.6608334
+7192,New York Mets,Los Angeles Dodgers,0,0.66083586,0.33916414
+3477,Chicago White Sox,Kansas City Royals,0,0.4294328,0.5705672
+1486,Los Angeles Angels,Chicago White Sox,1,0.5543614,0.4456386
+2936,Chicago White Sox,Seattle Mariners,0,0.44988453,0.55011547
+787,San Francisco Giants,Arizona Diamondbacks,1,0.35668033,0.64331967
+6549,Chicago White Sox,Cleveland Guardians,0,0.46697378,0.5330262
+5827,Cleveland Guardians,Texas Rangers,1,0.45409817,0.54590183
+891,Colorado Rockies,Oakland Athletics,1,0.5129526,0.48704737
+648,Chicago White Sox,Pittsburgh Pirates,1,0.18391341,0.8160866
+19,Los Angeles Dodgers,San Francisco Giants,1,0.074153125,0.9258469
+1054,Atlanta Braves,Boston Red Sox,0,0.38223583,0.6177642
+8263,Colorado Rockies,Washington Nationals,0,0.4064834,0.5935166
+1085,New York Yankees,Tampa Bay Rays,1,0.3982864,0.6017136
+4456,Houston Astros,Atlanta Braves,0,0.98771983,0.012280168
+324,Seattle Mariners,Oakland Athletics,1,0.56085664,0.43914336
+6377,Oakland Athletics,Houston Astros,0,0.5003679,0.49963215
+461,Texas Rangers,Seattle Mariners,1,0.40317076,0.59682924
+7235,New York Mets,Washington Nationals,1,0.19014525,0.80985475
+4225,Chicago Cubs,St. Louis Cardinals,0,0.4850036,0.5149964
+1539,Cincinnati Reds,Pittsburgh Pirates,1,0.44516903,0.55483097
+835,San Diego Padres,San Francisco Giants,1,0.3733166,0.6266834
+680,St. Louis Cardinals,Pittsburgh Pirates,0,0.44795328,0.5520467
+6423,Los Angeles Angels,Houston Astros,1,0.46729803,0.53270197
+6304,Houston Astros,Kansas City Royals,0,0.08906233,0.91093767
+5962,Toronto Blue Jays,Baltimore Orioles,0,0.19349736,0.80650264
+5310,Cincinnati Reds,Pittsburgh Pirates,1,0.4913873,0.5086127
+2342,Tampa Bay Rays,New York Mets,1,0.42180395,0.57819605
+7840,New York Yankees,Houston Astros,0,0.44477904,0.55522096
+4643,Kansas City Royals,Texas Rangers,0,0.4092304,0.5907696
+8821,San Francisco Giants,St. Louis Cardinals,1,0.40373462,0.5962654
+4337,Seattle Mariners,Los Angeles Angels,0,0.29423612,0.7057639
+169,Washington Nationals,Baltimore Orioles,1,0.26954257,0.7304574
+4827,Colorado Rockies,Los Angeles Dodgers,0,0.51167333,0.48832664
+3274,Houston Astros,Cleveland Indians,0,0.32948393,0.6705161
+6348,Baltimore Orioles,Los Angeles Angels,1,0.6261561,0.37384394
+1115,Los Angeles Dodgers,Tampa Bay Rays,1,0.108905554,0.89109445
+1682,Chicago White Sox,Cleveland Indians,1,0.431926,0.568074
+2303,Milwaukee Brewers,Atlanta Braves,0,0.43540555,0.56459445
+7244,Detroit Tigers,Kansas City Royals,0,0.5037581,0.4962419
+6809,Los Angeles Dodgers,San Diego Padres,1,0.45228404,0.54771596
+2186,Washington Nationals,Atlanta Braves,0,0.45811546,0.54188454
+8,Washington Nationals,New York Yankees,0,0.7916565,0.20834354
+6132,Texas Rangers,Washington Nationals,0,0.51472795,0.48527202
+99,San Diego Padres,Arizona Diamondbacks,1,0.3378762,0.6621238
+3572,Minnesota Twins,Chicago White Sox,1,0.7144985,0.28550145
+4366,Tampa Bay Rays,Boston Red Sox,0,0.35544235,0.64455765
+2738,Tampa Bay Rays,Baltimore Orioles,1,0.26226014,0.73773986
+6009,Oakland Athletics,Kansas City Royals,0,0.5505271,0.4494729
+7732,Seattle Mariners,Oakland Athletics,0,0.111564696,0.8884353
+5187,Texas Rangers,Atlanta Braves,0,0.47459924,0.52540076
+7564,Pittsburgh Pirates,Chicago Cubs,0,0.4293769,0.5706231
+1618,Houston Astros,Oakland Athletics,0,0.38150758,0.6184924
+4023,Atlanta Braves,Miami Marlins,0,0.20616525,0.79383475
+3407,San Francisco Giants,Houston Astros,1,0.5041475,0.49585247
+3103,Texas Rangers,Detroit Tigers,0,0.4129315,0.5870685
+3634,Chicago White Sox,New York Yankees,0,0.44037157,0.5596284
+8524,Boston Red Sox,Los Angeles Angels,1,0.59256876,0.40743122
+8168,Texas Rangers,Baltimore Orioles,0,0.4064834,0.5935166
+3295,Minnesota Twins,Los Angeles Angels,1,0.4858786,0.5141214
+8361,Philadelphia Phillies,Miami Marlins,0,0.42223865,0.57776135
+6354,Atlanta Braves,Washington Nationals,1,0.21176517,0.78823483
+4439,Houston Astros,Atlanta Braves,0,0.98771983,0.012280168
+6223,Chicago Cubs,Cincinnati Reds,1,0.57844114,0.42155886
+3885,Seattle Mariners,Houston Astros,1,0.56145996,0.43854004
+2985,Toronto Blue Jays,Seattle Mariners,1,0.37570667,0.6242933
+8520,Los Angeles Dodgers,Chicago Cubs,1,0.48949224,0.51050776
+3109,Texas Rangers,Detroit Tigers,1,0.44389558,0.5561044
+1440,Oakland Athletics,Houston Astros,0,0.47211093,0.5278891
+3764,Pittsburgh Pirates,Arizona Diamondbacks,1,0.5536495,0.4463505
+4199,Arizona Diamondbacks,Atlanta Braves,1,0.60924387,0.39075616
+1794,Oakland Athletics,Detroit Tigers,1,0.4614281,0.5385719
+8434,Miami Marlins,Arizona Diamondbacks,1,0.4681509,0.5318491
+3903,New York Yankees,Baltimore Orioles,1,0.21667045,0.78332955
+4560,Houston Astros,Atlanta Braves,0,0.98771983,0.012280168
+7339,Texas Rangers,Toronto Blue Jays,0,0.64796174,0.35203823
+2331,Minnesota Twins,Oakland Athletics,0,0.45956236,0.54043764
+8311,Chicago Cubs,Texas Rangers,0,0.46397108,0.5360289
+5915,Toronto Blue Jays,Baltimore Orioles,1,0.15672642,0.8432736
+3612,San Francisco Giants,Colorado Rockies,1,0.4720568,0.5279432
+7591,Miami Marlins,Washington Nationals,1,0.20101535,0.79898465
+3861,Washington Nationals,Philadelphia Phillies,0,0.5819005,0.4180995
+5279,Arizona Diamondbacks,Colorado Rockies,1,0.40659374,0.59340626
+4976,Milwaukee Brewers,St. Louis Cardinals,1,0.38335025,0.61664975
+2986,Cincinnati Reds,San Diego Padres,0,0.57150215,0.42849785
+4847,Colorado Rockies,Los Angeles Dodgers,1,0.48363143,0.51636857
+7793,New York Mets,San Diego Padres,0,0.42431456,0.57568544
+3582,San Francisco Giants,Arizona Diamondbacks,1,0.2665422,0.7334578
+1291,Seattle Mariners,Milwaukee Brewers,1,0.49196666,0.50803334
+469,Cincinnati Reds,Kansas City Royals,0,0.4681155,0.5318845
+4317,Texas Rangers,Cleveland Indians,0,0.5335485,0.46645156
+5545,Los Angeles Angels,Oakland Athletics,1,0.47924358,0.5207564
+605,Oakland Athletics,Los Angeles Angels,1,0.30318844,0.69681156
+634,Milwaukee Brewers,Cincinnati Reds,1,0.55015296,0.44984704
+1951,New York Mets,Washington Nationals,1,0.3108207,0.6891793
+866,Arizona Diamondbacks,Seattle Mariners,0,0.39501476,0.60498524
+2265,Los Angeles Dodgers,Seattle Mariners,1,0.09555751,0.9044425
+1442,New York Yankees,Toronto Blue Jays,0,0.5300697,0.46993032
+6489,Toronto Blue Jays,Kansas City Royals,1,0.33098167,0.6690183
+6396,Minnesota Twins,Milwaukee Brewers,0,0.4027294,0.5972706
+8506,Los Angeles Dodgers,Chicago Cubs,1,0.496867,0.503133
+4697,Miami Marlins,New York Mets,0,0.46195596,0.53804404
+2238,Los Angeles Angels,Los Angeles Dodgers,0,0.58005,0.41995
+1944,Los Angeles Dodgers,San Diego Padres,0,0.41138005,0.58861995
+4319,Arizona Diamondbacks,Colorado Rockies,0,0.43680996,0.56319004
+1049,New York Yankees,Miami Marlins,0,0.41134453,0.5886555
+4998,Detroit Tigers,New York Yankees,0,0.59129214,0.40870786
+473,Milwaukee Brewers,Minnesota Twins,0,0.5457237,0.4542763
+3419,Chicago White Sox,Cleveland Indians,0,0.4431197,0.5568803
+294,Toronto Blue Jays,Washington Nationals,0,0.58070195,0.41929808
+8763,Toronto Blue Jays,Chicago White Sox,1,0.40240437,0.59759563
+7554,San Diego Padres,St. Louis Cardinals,0,0.43485755,0.56514245
+8816,New York Mets,Washington Nationals,0,0.46334785,0.53665215
+7254,Cleveland Guardians,Seattle Mariners,0,0.6651125,0.3348875
+5105,Atlanta Braves,Miami Marlins,0,0.427431,0.572569
+2548,Los Angeles Dodgers,San Francisco Giants,0,0.4129315,0.5870685
+5435,Tampa Bay Rays,Toronto Blue Jays,0,0.47221476,0.52778524
+8411,Chicago Cubs,Seattle Mariners,0,0.4988312,0.5011688
+5103,Seattle Mariners,Kansas City Royals,1,0.3699649,0.6300351
+2848,San Francisco Giants,Philadelphia Phillies,0,0.45740902,0.542591
+5632,San Diego Padres,Pittsburgh Pirates,1,0.45468265,0.54531735
+6750,St. Louis Cardinals,Chicago Cubs,1,0.44889975,0.55110025
+6647,San Diego Padres,Minnesota Twins,1,0.48114592,0.5188541
+5143,Toronto Blue Jays,Boston Red Sox,0,0.4069457,0.5930543
+5783,Philadelphia Phillies,Los Angeles Angels,1,0.48492664,0.51507336
+2504,Seattle Mariners,Texas Rangers,1,0.45956236,0.54043764
+2358,Oakland Athletics,Houston Astros,1,0.5231037,0.47689632
+5476,Oakland Athletics,Minnesota Twins,1,0.6253941,0.3746059
+2758,Kansas City Royals,Detroit Tigers,0,0.43207735,0.56792265
+7526,Baltimore Orioles,Detroit Tigers,0,0.409792,0.590208
+5746,Kansas City Royals,Houston Astros,0,0.5378443,0.46215567
+3368,Seattle Mariners,Houston Astros,0,0.50981236,0.49018767
+2067,Toronto Blue Jays,Washington Nationals,0,0.38596737,0.6140326
+2394,Atlanta Braves,Pittsburgh Pirates,0,0.3018058,0.6981942
+5896,San Francisco Giants,Los Angeles Dodgers,1,0.6359942,0.36400577
+5323,New York Yankees,Texas Rangers,0,0.3732425,0.6267575
+3203,Toronto Blue Jays,Texas Rangers,1,0.19886816,0.80113184
+5425,Chicago White Sox,New York Yankees,1,0.5191964,0.48080364
+2162,Seattle Mariners,Baltimore Orioles,0,0.41560555,0.58439445
+8851,Texas Rangers,New York Yankees,1,0.37453222,0.6254678
+4541,Houston Astros,Atlanta Braves,0,0.98771983,0.012280168
+7021,Arizona Diamondbacks,St. Louis Cardinals,0,0.59157085,0.40842912
+5885,Detroit Tigers,Toronto Blue Jays,1,0.711442,0.28855798
+2470,Milwaukee Brewers,San Diego Padres,0,0.44315553,0.5568445
+5893,Seattle Mariners,Boston Red Sox,1,0.4927522,0.5072478
+759,Minnesota Twins,Detroit Tigers,1,0.3062495,0.6937505
+5005,Colorado Rockies,Philadelphia Phillies,1,0.5937681,0.40623185
+8829,Los Angeles Angels,Oakland Athletics,1,0.25780028,0.7421997
+2740,Cleveland Indians,Seattle Mariners,0,0.16659558,0.8334044
+4315,Atlanta Braves,New York Mets,0,0.38810802,0.611892
+2439,Colorado Rockies,Arizona Diamondbacks,1,0.33916658,0.6608334
+3119,Minnesota Twins,Chicago White Sox,0,0.42180395,0.57819605
+8305,Tampa Bay Rays,Oakland Athletics,1,0.28431994,0.71568006
+4956,Texas Rangers,Los Angeles Angels,0,0.68746763,0.31253237
+492,Minnesota Twins,Kansas City Royals,1,0.46763432,0.5323657
+7058,Kansas City Royals,Chicago White Sox,1,0.61734074,0.38265926
+1800,Washington Nationals,Arizona Diamondbacks,0,0.43818521,0.5618148
+2957,San Francisco Giants,Oakland Athletics,1,0.41560555,0.58439445
+465,Los Angeles Angels,Oakland Athletics,0,0.3770699,0.6229301
+4236,Arizona Diamondbacks,Los Angeles Dodgers,0,0.44716322,0.5528368
+8853,Houston Astros,Philadelphia Phillies,0,0.38986254,0.61013746
+5668,Tampa Bay Rays,New York Yankees,1,0.44080055,0.55919945
+7611,Baltimore Orioles,Houston Astros,0,0.5722637,0.4277363
+2101,Oakland Athletics,Baltimore Orioles,0,0.41560555,0.58439445
+337,Los Angeles Angels,Houston Astros,0,0.4529243,0.5470757
+3151,Baltimore Orioles,Chicago White Sox,0,0.75080115,0.24919887
+2399,Chicago Cubs,Washington Nationals,1,0.42180395,0.57819605
+3216,St. Louis Cardinals,San Francisco Giants,0,0.5149231,0.48507693
+3033,Detroit Tigers,Chicago White Sox,0,0.61268204,0.38731796
+2133,Arizona Diamondbacks,Colorado Rockies,0,0.39497536,0.60502464
+1072,San Diego Padres,St. Louis Cardinals,1,0.39501476,0.60498524
+1340,Atlanta Braves,Boston Red Sox,0,0.43640107,0.56359893
+3170,New York Mets,Pittsburgh Pirates,1,0.39159334,0.60840666
+4840,Minnesota Twins,Seattle Mariners,0,0.36526144,0.63473856
+1427,New York Yankees,Toronto Blue Jays,0,0.59036684,0.4096332
+1512,Los Angeles Angels,Chicago White Sox,1,0.47735322,0.5226468
+6721,Chicago White Sox,Kansas City Royals,1,0.48835123,0.5116488
+2993,St. Louis Cardinals,Arizona Diamondbacks,1,0.4287259,0.5712741
+7904,Houston Astros,Philadelphia Phillies,1,0.022052824,0.9779472
+7422,Cleveland Guardians,Los Angeles Angels,1,0.45246357,0.54753643
+8236,Chicago White Sox,San Francisco Giants,0,0.45172155,0.54827845
+2873,Texas Rangers,Oakland Athletics,1,0.5229484,0.47705165
+6683,Los Angeles Angels,Texas Rangers,1,0.4871958,0.5128042
+5294,Chicago Cubs,Los Angeles Dodgers,0,0.751548,0.248452
+8676,San Francisco Giants,New York Mets,0,0.44636095,0.55363905
+3282,Los Angeles Dodgers,San Francisco Giants,0,0.39244783,0.6075522
+2281,Tampa Bay Rays,New York Yankees,1,0.6023663,0.39763364
+3715,Los Angeles Dodgers,New York Mets,1,0.23639971,0.7636003
+1342,Philadelphia Phillies,Toronto Blue Jays,0,0.38304955,0.61695045
+5309,Cincinnati Reds,Pittsburgh Pirates,0,0.4913873,0.5086127
+3655,Cincinnati Reds,Chicago Cubs,0,0.4717399,0.5282601
+1590,Miami Marlins,St. Louis Cardinals,0,0.43818521,0.5618148
+1785,Milwaukee Brewers,Pittsburgh Pirates,0,0.37762266,0.62237734
+4371,Tampa Bay Rays,Boston Red Sox,0,0.3374759,0.6625241
+4948,Pittsburgh Pirates,Washington Nationals,1,0.56198907,0.4380109
+8007,New York Yankees,Detroit Tigers,1,0.2906322,0.7093678
+3850,Texas Rangers,Houston Astros,1,0.64817107,0.35182893
+705,Colorado Rockies,San Diego Padres,1,0.55015296,0.44984704
+6574,Baltimore Orioles,Tampa Bay Rays,1,0.46967608,0.5303239
+3035,Kansas City Royals,Minnesota Twins,1,0.46075594,0.53924406
+550,Los Angeles Dodgers,Seattle Mariners,1,0.2409684,0.7590316
+612,Chicago Cubs,Chicago White Sox,1,0.3067463,0.6932537
+1498,San Diego Padres,Arizona Diamondbacks,0,0.3831473,0.6168527
+3964,Baltimore Orioles,Kansas City Royals,1,0.47852832,0.5214717
+4412,Boston Red Sox,Houston Astros,1,0.43680996,0.56319004
+1061,Oakland Athletics,Chicago White Sox,0,0.5808828,0.41911724
+4862,New York Yankees,Boston Red Sox,0,0.429789,0.570211
+4270,Los Angeles Dodgers,San Diego Padres,1,0.32724875,0.67275125
+7599,Chicago White Sox,Detroit Tigers,0,0.49667954,0.50332046
+7444,New York Mets,Pittsburgh Pirates,1,0.5750446,0.42495543
+6335,Kansas City Royals,Cleveland Guardians,1,0.4861709,0.5138291
+2820,Texas Rangers,Minnesota Twins,0,0.6499528,0.35004717
+5772,Colorado Rockies,Atlanta Braves,0,0.52164364,0.4783564
+6891,Kansas City Royals,Los Angeles Dodgers,0,0.64963627,0.3503637
+6427,Chicago Cubs,Baltimore Orioles,0,0.4027294,0.5972706
+1211,Los Angeles Dodgers,Tampa Bay Rays,1,0.108905554,0.89109445
+5503,Boston Red Sox,Seattle Mariners,1,0.44080055,0.55919945
+6008,Oakland Athletics,Kansas City Royals,0,0.5505271,0.4494729
+3530,Cleveland Indians,Detroit Tigers,1,0.4717399,0.5282601
+8530,Kansas City Royals,Atlanta Braves,0,0.8766782,0.12332175
+1681,St. Louis Cardinals,Washington Nationals,0,0.40522754,0.59477246
+7878,Houston Astros,Philadelphia Phillies,1,0.022052824,0.9779472
+6936,Miami Marlins,San Diego Padres,1,0.52819884,0.4718012
+6471,Texas Rangers,Seattle Mariners,0,0.62740284,0.37259716
+3162,Milwaukee Brewers,Cincinnati Reds,0,0.38398373,0.61601627
+5381,Detroit Tigers,Oakland Athletics,0,0.4713468,0.5286532
+5639,St. Louis Cardinals,Milwaukee Brewers,1,0.62234205,0.37765795
+615,Cleveland Indians,Detroit Tigers,0,0.12576962,0.8742304
+248,St. Louis Cardinals,Pittsburgh Pirates,1,0.5138812,0.4861188
+5809,Atlanta Braves,Oakland Athletics,1,0.20315653,0.79684347
+6634,Miami Marlins,New York Mets,0,0.5343019,0.46569815
+1691,Milwaukee Brewers,Chicago Cubs,0,0.43818521,0.5618148
+2355,Minnesota Twins,Chicago White Sox,1,0.5173551,0.48264492
+263,Oakland Athletics,Los Angeles Angels,1,0.49424332,0.5057567
+5333,New York Yankees,Texas Rangers,1,0.4495324,0.5504676
+3706,Toronto Blue Jays,Detroit Tigers,0,0.1052745,0.8947255
+4149,New York Mets,Philadelphia Phillies,1,0.4899286,0.5100714
+1037,Atlanta Braves,Boston Red Sox,0,0.35853946,0.64146054
+542,Atlanta Braves,Washington Nationals,0,0.35839492,0.6416051
+8041,Chicago Cubs,Milwaukee Brewers,1,0.66099244,0.33900756
+8225,Oakland Athletics,Cleveland Guardians,0,0.50903785,0.49096212
+4763,Oakland Athletics,San Diego Padres,1,0.46195596,0.53804404
+8700,Seattle Mariners,St. Louis Cardinals,0,0.4511447,0.5488553
+463,New York Mets,Washington Nationals,0,0.5457237,0.4542763
+7333,Milwaukee Brewers,San Francisco Giants,1,0.18291205,0.81708795
+5411,Colorado Rockies,Kansas City Royals,0,0.41395324,0.58604676
+6719,Texas Rangers,Baltimore Orioles,0,0.50203454,0.49796543
+1388,Los Angeles Dodgers,Oakland Athletics,0,0.50656873,0.49343127
+1721,Pittsburgh Pirates,San Diego Padres,1,0.5769794,0.42302057
+4497,Houston Astros,Atlanta Braves,0,0.98771983,0.012280168
+3417,New York Mets,Cincinnati Reds,1,0.47417957,0.52582043
+8815,Philadelphia Phillies,Seattle Mariners,1,0.3518622,0.6481378
+4501,Houston Astros,Atlanta Braves,0,0.98771983,0.012280168
+5374,New York Yankees,Toronto Blue Jays,1,0.35012013,0.6498799
+7396,Cleveland Guardians,Los Angeles Angels,1,0.43563282,0.5643672
+4123,Washington Nationals,Colorado Rockies,0,0.50215197,0.49784803
+7180,Washington Nationals,Oakland Athletics,0,0.48919034,0.51080966
+5819,San Francisco Giants,Colorado Rockies,1,0.42194045,0.57805955
+7527,Atlanta Braves,Washington Nationals,1,0.575214,0.42478594
+5784,Toronto Blue Jays,Minnesota Twins,0,0.4335183,0.5664817
+6895,Chicago White Sox,Detroit Tigers,1,0.322775,0.677225
+2177,Oakland Athletics,Toronto Blue Jays,0,0.4436602,0.5563398
+7972,Seattle Mariners,Los Angeles Angels,0,0.4003542,0.5996458
+8680,Minnesota Twins,Washington Nationals,0,0.35495412,0.6450459
+4521,Houston Astros,Atlanta Braves,0,0.98771983,0.012280168
+2846,Arizona Diamondbacks,Los Angeles Dodgers,0,0.68100923,0.31899077
+1768,Chicago White Sox,Cleveland Indians,0,0.36164308,0.6383569
+5670,Minnesota Twins,Kansas City Royals,1,0.45468265,0.54531735
+7804,Los Angeles Dodgers,San Diego Padres,1,0.4070658,0.5929342
+217,Oakland Athletics,Los Angeles Angels,1,0.62327033,0.37672967
+1032,Texas Rangers,Houston Astros,1,0.48832273,0.51167727
+5004,Miami Marlins,St. Louis Cardinals,0,0.44853836,0.55146164
+2691,St. Louis Cardinals,Cleveland Indians,1,0.41560555,0.58439445
+5638,St. Louis Cardinals,Milwaukee Brewers,1,0.62234205,0.37765795
+1151,Los Angeles Dodgers,Tampa Bay Rays,1,0.108905554,0.89109445
+8546,Miami Marlins,San Francisco Giants,1,0.58885866,0.41114134
+697,St. Louis Cardinals,Cleveland Indians,0,0.41809398,0.581906
+8261,Milwaukee Brewers,St. Louis Cardinals,1,0.42750734,0.57249266
+2029,Los Angeles Dodgers,Cincinnati Reds,0,0.4504745,0.5495255
+6490,New York Yankees,Boston Red Sox,1,0.35077482,0.6492252
+2166,Seattle Mariners,Baltimore Orioles,1,0.4201845,0.5798155
+781,Oakland Athletics,San Diego Padres,0,0.47484303,0.525157
+4074,Texas Rangers,Houston Astros,1,0.6740383,0.3259617
+5104,Detroit Tigers,Colorado Rockies,0,0.427431,0.572569
+5806,Miami Marlins,Washington Nationals,1,0.45970386,0.54029614
+881,St. Louis Cardinals,Cincinnati Reds,1,0.46788812,0.5321119
+8097,Miami Marlins,New York Mets,0,0.46397108,0.5360289
+1936,San Francisco Giants,Miami Marlins,1,0.36164308,0.6383569
+6792,Milwaukee Brewers,Cincinnati Reds,1,0.41839164,0.58160836
+4052,Seattle Mariners,Arizona Diamondbacks,0,0.3832057,0.6167943
+50,Boston Red Sox,Baltimore Orioles,1,0.24969685,0.75030315
+1103,Los Angeles Dodgers,Tampa Bay Rays,1,0.2431817,0.7568183
+5109,St. Louis Cardinals,New York Mets,0,0.5752764,0.42472365
+1203,Los Angeles Dodgers,Tampa Bay Rays,1,0.108905554,0.89109445
+7707,Atlanta Braves,New York Mets,1,0.42178875,0.57821125
+5579,Atlanta Braves,Philadelphia Phillies,0,0.67334926,0.32665077
+1497,San Diego Padres,Arizona Diamondbacks,1,0.3831473,0.6168527
+3980,New York Yankees,Toronto Blue Jays,0,0.4863847,0.5136153
+4619,Philadelphia Phillies,Detroit Tigers,1,0.4092304,0.5907696
+5175,Toronto Blue Jays,Houston Astros,0,0.48520535,0.51479465
+8102,Oakland Athletics,Los Angeles Angels,0,0.69472045,0.30527955
+1840,New York Yankees,Tampa Bay Rays,0,0.38116014,0.61883986
+6783,Chicago Cubs,Miami Marlins,1,0.540429,0.45957103
+4091,Seattle Mariners,Boston Red Sox,0,0.6580474,0.34195262
+6389,Colorado Rockies,San Diego Padres,0,0.5614135,0.4385865
+7344,Houston Astros,Los Angeles Angels,1,0.22794485,0.77205515
+6480,Chicago Cubs,New York Mets,0,0.6167834,0.3832166
+7153,Boston Red Sox,Tampa Bay Rays,0,0.48578793,0.5142121
+6611,Arizona Diamondbacks,San Francisco Giants,1,0.387079,0.612921
+4961,Seattle Mariners,Houston Astros,0,0.5078609,0.49213913
+101,Oakland Athletics,Los Angeles Angels,0,0.3378762,0.6621238
+2938,Minnesota Twins,Cleveland Indians,1,0.44389558,0.5561044
+6555,Baltimore Orioles,New York Yankees,0,0.48795623,0.5120438
+4500,Houston Astros,Atlanta Braves,0,0.98771983,0.012280168
+3687,Detroit Tigers,Los Angeles Angels,0,0.56053627,0.43946376
+3117,Los Angeles Angels,Boston Red Sox,1,0.5229484,0.47705165
+8318,Arizona Diamondbacks,Los Angeles Dodgers,1,0.46397108,0.5360289
+1913,Cincinnati Reds,Arizona Diamondbacks,0,0.4670698,0.5329302
+2913,Texas Rangers,Oakland Athletics,0,0.61268204,0.38731796
+3242,Los Angeles Angels,Seattle Mariners,1,0.44041264,0.55958736
+3938,New York Yankees,Baltimore Orioles,0,0.1371457,0.8628543
+4233,Colorado Rockies,San Francisco Giants,0,0.4578213,0.5421787
+4272,Toronto Blue Jays,New York Yankees,0,0.4075148,0.5924852
+5144,Philadelphia Phillies,Colorado Rockies,1,0.27346194,0.72653806
+1527,Chicago Cubs,Milwaukee Brewers,1,0.44594562,0.5540544
+7988,Pittsburgh Pirates,Philadelphia Phillies,0,0.40065265,0.59934735
+3654,Washington Nationals,Toronto Blue Jays,1,0.6086355,0.3913645
+1991,San Francisco Giants,Miami Marlins,1,0.30854303,0.691457
+1143,Los Angeles Dodgers,Tampa Bay Rays,1,0.108905554,0.89109445
+7784,Los Angeles Dodgers,Colorado Rockies,1,0.271815,0.728185
+2965,Boston Red Sox,New York Yankees,1,0.57150215,0.42849785
+7764,Chicago White Sox,Minnesota Twins,0,0.4064834,0.5935166
+4695,Seattle Mariners,Kansas City Royals,0,0.40308797,0.596912
+1506,Philadelphia Phillies,Atlanta Braves,1,0.53774357,0.46225643
+1757,Chicago White Sox,Cleveland Indians,0,0.43818521,0.5618148
+4783,Philadelphia Phillies,Pittsburgh Pirates,1,0.4246595,0.5753405
+5351,Oakland Athletics,Detroit Tigers,0,0.51983,0.48016998
+7550,Colorado Rockies,San Francisco Giants,0,0.35472602,0.645274
+1807,Milwaukee Brewers,Pittsburgh Pirates,0,0.43818521,0.5618148
+5561,New York Yankees,Chicago White Sox,0,0.40622193,0.5937781
+1728,New York Mets,Philadelphia Phillies,1,0.5892885,0.41071156
+2040,New York Mets,Boston Red Sox,0,0.3463592,0.6536408
+6496,San Diego Padres,Arizona Diamondbacks,0,0.44748992,0.5525101
+6808,Los Angeles Dodgers,San Diego Padres,1,0.45228404,0.54771596
+8055,Chicago Cubs,Milwaukee Brewers,1,0.70351547,0.29648453
+7763,Chicago White Sox,Minnesota Twins,1,0.4064834,0.5935166
+1383,Toronto Blue Jays,Philadelphia Phillies,1,0.49132293,0.50867707
+5500,New York Mets,St. Louis Cardinals,1,0.47023678,0.5297632
+4151,San Francisco Giants,Atlanta Braves,0,0.5070213,0.4929787
+765,Kansas City Royals,Chicago White Sox,0,0.68991375,0.31008625
+180,New York Mets,Atlanta Braves,1,0.344899,0.655101
+5631,Los Angeles Angels,Toronto Blue Jays,0,0.44640034,0.55359966
+6105,Milwaukee Brewers,Toronto Blue Jays,1,0.62098366,0.37901634
+7166,Oakland Athletics,New York Yankees,1,0.66276145,0.33723855
+4781,Colorado Rockies,Cleveland Guardians,1,0.46195596,0.53804404
+356,Cincinnati Reds,Cleveland Indians,1,0.28516906,0.71483094
+7588,Philadelphia Phillies,Atlanta Braves,0,0.39089578,0.6091042
+2583,Milwaukee Brewers,Detroit Tigers,0,0.4599771,0.5400229
+1639,Texas Rangers,San Diego Padres,0,0.6168927,0.38310727
+3354,Tampa Bay Rays,New York Yankees,0,0.37915885,0.62084115
+4979,Colorado Rockies,Chicago Cubs,0,0.39546233,0.60453767
+8537,Seattle Mariners,Colorado Rockies,1,0.22808576,0.77191424
+3897,Kansas City Royals,Cleveland Indians,0,0.46468842,0.5353116
+7463,San Francisco Giants,Los Angeles Dodgers,0,0.6393194,0.36068055
+81,Oakland Athletics,Los Angeles Angels,0,0.3378762,0.6621238
+2786,Toronto Blue Jays,New York Yankees,0,0.51968694,0.48031306
+3192,Los Angeles Dodgers,Arizona Diamondbacks,1,0.04814583,0.95185417
+7183,Minnesota Twins,Boston Red Sox,1,0.43563282,0.5643672
+2056,St. Louis Cardinals,Philadelphia Phillies,0,0.42180395,0.57819605
+7066,Colorado Rockies,Texas Rangers,1,0.4871958,0.5128042
+7936,Houston Astros,Philadelphia Phillies,1,0.022052824,0.9779472
+8793,Minnesota Twins,New York Yankees,1,0.37453222,0.6254678
+6841,New York Mets,Cincinnati Reds,1,0.3248021,0.6751979
+5275,Philadelphia Phillies,New York Mets,0,0.465679,0.534321
+5086,Chicago Cubs,Pittsburgh Pirates,1,0.42825615,0.57174385
+2426,Kansas City Royals,Detroit Tigers,1,0.41686583,0.5831342
+1863,Boston Red Sox,Chicago White Sox,0,0.43818521,0.5618148
+5269,Baltimore Orioles,Minnesota Twins,1,0.6479778,0.35202217
+3174,Los Angeles Dodgers,Arizona Diamondbacks,1,0.14952719,0.8504728
+7499,New York Mets,Pittsburgh Pirates,1,0.5968375,0.40316248
+636,Houston Astros,Los Angeles Angels,1,0.43123496,0.56876504
+812,Toronto Blue Jays,New York Yankees,0,0.5129526,0.48704737
+6958,Los Angeles Angels,Seattle Mariners,0,0.6538378,0.3461622
+1668,Houston Astros,Detroit Tigers,0,0.30433857,0.6956614
+4472,Houston Astros,Atlanta Braves,0,0.98771983,0.012280168
+698,Detroit Tigers,Minnesota Twins,1,0.6308551,0.36914495
+1429,Milwaukee Brewers,Minnesota Twins,1,0.47211093,0.5278891
+4496,Houston Astros,Atlanta Braves,0,0.98771983,0.012280168
+786,San Francisco Giants,Arizona Diamondbacks,1,0.35668033,0.64331967
+341,Seattle Mariners,Oakland Athletics,0,0.5131043,0.48689568
+2698,Philadelphia Phillies,Atlanta Braves,1,0.3892247,0.6107753
+5556,Miami Marlins,Atlanta Braves,1,0.4927522,0.5072478
+3681,Miami Marlins,Atlanta Braves,0,0.6639521,0.33604792
+4486,Houston Astros,Atlanta Braves,0,0.98771983,0.012280168
+8418,Los Angeles Angels,Washington Nationals,1,0.4219421,0.5780579
+6861,Arizona Diamondbacks,Pittsburgh Pirates,1,0.4665752,0.5334248
+8461,Houston Astros,Texas Rangers,0,0.52353776,0.47646227
+6202,Seattle Mariners,Oakland Athletics,1,0.10002726,0.89997274
+4157,Detroit Tigers,Chicago White Sox,1,0.6106835,0.3893165
+4062,Los Angeles Dodgers,Arizona Diamondbacks,1,0.14513713,0.85486287
+7036,Pittsburgh Pirates,Cincinnati Reds,0,0.47447926,0.52552074
+958,New York Mets,Atlanta Braves,0,0.4016664,0.5983336
+733,Minnesota Twins,Chicago White Sox,1,0.3305447,0.6694553
+5567,Los Angeles Angels,Oakland Athletics,1,0.38966817,0.61033183
+1680,Milwaukee Brewers,Chicago Cubs,1,0.431926,0.568074
+5997,Houston Astros,Chicago White Sox,1,0.27807146,0.72192854
+6451,Chicago Cubs,New York Mets,0,0.4886269,0.5113731
+1997,Chicago White Sox,Texas Rangers,1,0.38054627,0.6194537
+1802,Philadelphia Phillies,St. Louis Cardinals,1,0.43818521,0.5618148
+2774,Colorado Rockies,San Diego Padres,1,0.56996155,0.43003845
+7825,San Diego Padres,Philadelphia Phillies,0,0.4064834,0.5935166
+1477,Oakland Athletics,Houston Astros,0,0.47735322,0.5226468
+6144,San Francisco Giants,Cincinnati Reds,0,0.5139445,0.4860555
+1994,St. Louis Cardinals,Cincinnati Reds,1,0.4311247,0.5688753
+597,Kansas City Royals,Minnesota Twins,0,0.384961,0.615039
+8614,New York Yankees,Los Angeles Angels,1,0.61913,0.38087
+6134,Miami Marlins,New York Mets,1,0.5758582,0.42414182
+2642,Los Angeles Angels,Seattle Mariners,0,0.3892247,0.6107753
+8893,Washington Nationals,Pittsburgh Pirates,0,0.63149,0.36851
+3766,Toronto Blue Jays,Chicago White Sox,0,0.46468842,0.5353116
+3461,Milwaukee Brewers,Pittsburgh Pirates,0,0.15997243,0.8400276
+6531,Seattle Mariners,Houston Astros,0,0.5105496,0.4894504
+4930,New York Mets,Arizona Diamondbacks,1,0.21149826,0.78850174
+8866,Texas Rangers,New York Yankees,1,0.4456346,0.5543654
+4531,Houston Astros,Atlanta Braves,0,0.98771983,0.012280168
+4937,Seattle Mariners,Houston Astros,1,0.68746763,0.31253237
+8913,Colorado Rockies,Arizona Diamondbacks,0,0.20063931,0.7993607
+172,Boston Red Sox,Toronto Blue Jays,0,0.40027523,0.59972477
+3895,Los Angeles Dodgers,Atlanta Braves,1,0.42613155,0.57386845
+3900,San Francisco Giants,Milwaukee Brewers,1,0.41077012,0.5892299
+3735,San Diego Padres,Philadelphia Phillies,1,0.4430353,0.5569647
+7575,Baltimore Orioles,Houston Astros,1,0.625075,0.37492505
+6864,Philadelphia Phillies,Miami Marlins,0,0.48276514,0.51723486
+119,St. Louis Cardinals,Pittsburgh Pirates,1,0.20378041,0.7962196
+4705,Oakland Athletics,Cincinnati Reds,1,0.4092304,0.5907696
+267,Chicago Cubs,Milwaukee Brewers,1,0.46024728,0.5397527
+8131,New York Yankees,Philadelphia Phillies,1,0.4064834,0.5935166
+5492,Kansas City Royals,Chicago White Sox,1,0.56681913,0.43318087
+7932,Houston Astros,Philadelphia Phillies,1,0.022052824,0.9779472
+2190,Oakland Athletics,Toronto Blue Jays,0,0.4887498,0.5112502
+1799,Colorado Rockies,New York Mets,1,0.46291494,0.53708506
+561,Boston Red Sox,Philadelphia Phillies,1,0.5266577,0.4733423
+7948,Houston Astros,Philadelphia Phillies,1,0.022052824,0.9779472
+1593,Oakland Athletics,Los Angeles Dodgers,0,0.43818521,0.5618148
+3998,Oakland Athletics,Chicago White Sox,1,0.43126744,0.56873256
+7393,Houston Astros,Los Angeles Angels,1,0.18962038,0.8103796
+8487,Seattle Mariners,Colorado Rockies,1,0.44990468,0.5500953
+6548,Chicago White Sox,Cleveland Guardians,0,0.46697378,0.5330262
+2572,Seattle Mariners,Oakland Athletics,0,0.57150215,0.42849785
+8342,New York Mets,San Diego Padres,1,0.4064834,0.5935166
+7017,Minnesota Twins,Texas Rangers,0,0.48276514,0.51723486
+5790,Los Angeles Dodgers,New York Mets,0,0.4256022,0.5743978
+4610,Minnesota Twins,Tampa Bay Rays,1,0.4092304,0.5907696
+2440,San Francisco Giants,Los Angeles Dodgers,0,0.59252167,0.40747833
+543,Baltimore Orioles,Toronto Blue Jays,0,0.5122837,0.48771635
+4516,Houston Astros,Atlanta Braves,0,0.98771983,0.012280168
+5416,St. Louis Cardinals,San Francisco Giants,1,0.4800263,0.5199737
+2673,San Diego Padres,Chicago Cubs,0,0.45096284,0.54903716
+7210,Atlanta Braves,Colorado Rockies,1,0.6417284,0.35827163
+65,Cincinnati Reds,Detroit Tigers,1,0.24969685,0.75030315
+4132,Houston Astros,Arizona Diamondbacks,0,0.101105034,0.89889497
+1376,Tampa Bay Rays,Boston Red Sox,1,0.47735322,0.5226468
+3319,San Francisco Giants,Pittsburgh Pirates,1,0.08681816,0.91318184
+5532,Toronto Blue Jays,Cincinnati Reds,1,0.24690396,0.75309604
+3692,Kansas City Royals,Houston Astros,1,0.5819005,0.4180995
+361,Seattle Mariners,Oakland Athletics,0,0.5066272,0.49337277
+7983,Atlanta Braves,Toronto Blue Jays,1,0.4064834,0.5935166
+766,Seattle Mariners,Texas Rangers,1,0.38223583,0.6177642
+8390,Arizona Diamondbacks,Milwaukee Brewers,1,0.5962405,0.40375948
+8049,Oakland Athletics,Los Angeles Angels,1,0.742057,0.25794297
+6142,St. Louis Cardinals,Chicago Cubs,0,0.42765254,0.57234746
+1810,Seattle Mariners,Houston Astros,1,0.43818521,0.5618148
+8498,Oakland Athletics,New York Mets,0,0.7908369,0.20916313
+8902,Detroit Tigers,Baltimore Orioles,1,0.5979228,0.40207723
+5385,Seattle Mariners,Philadelphia Phillies,1,0.48560238,0.5143976
+2608,Colorado Rockies,Texas Rangers,1,0.46075594,0.53924406
+3041,Seattle Mariners,Texas Rangers,1,0.4863643,0.5136357
+8132,Washington Nationals,Tampa Bay Rays,0,0.5451187,0.4548813
+480,Chicago Cubs,Milwaukee Brewers,1,0.46763432,0.5323657
+2419,Cleveland Indians,Minnesota Twins,0,0.4529485,0.5470515
+1816,Philadelphia Phillies,St. Louis Cardinals,0,0.5413966,0.45860338
+4108,Texas Rangers,Chicago White Sox,0,0.5294267,0.47057334
+6244,Cleveland Guardians,New York Yankees,0,0.7216394,0.27836064
+3954,Milwaukee Brewers,Philadelphia Phillies,0,0.45835942,0.5416406
+5818,Cincinnati Reds,Arizona Diamondbacks,1,0.44080055,0.55919945
+1754,Atlanta Braves,Miami Marlins,0,0.43818521,0.5618148
+893,Los Angeles Angels,Arizona Diamondbacks,0,0.35668033,0.64331967
+329,Baltimore Orioles,Tampa Bay Rays,1,0.66198313,0.33801687
+5705,Detroit Tigers,Minnesota Twins,1,0.5978955,0.40210453
+3632,Philadelphia Phillies,Cincinnati Reds,0,0.38670325,0.61329675
+7590,Oakland Athletics,New York Mets,1,0.88583314,0.11416687
+8658,Seattle Mariners,St. Louis Cardinals,1,0.50952625,0.49047375
+5841,Milwaukee Brewers,Philadelphia Phillies,0,0.45409817,0.54590183
+1990,San Francisco Giants,Miami Marlins,0,0.30854303,0.691457
+1239,Tampa Bay Rays,Minnesota Twins,0,0.22127795,0.77872205
+1746,Los Angeles Dodgers,Colorado Rockies,1,0.43818521,0.5618148
+8294,Milwaukee Brewers,St. Louis Cardinals,1,0.80558145,0.19441858
+753,Los Angeles Dodgers,Colorado Rockies,1,0.22109056,0.77890944
+7909,Houston Astros,Philadelphia Phillies,1,0.022052824,0.9779472
+3977,Arizona Diamondbacks,Texas Rangers,0,0.50336385,0.49663618
+2741,New York Mets,San Diego Padres,0,0.50864804,0.49135193
+4740,Toronto Blue Jays,Philadelphia Phillies,0,0.35227525,0.64772475
+8404,Atlanta Braves,Cincinnati Reds,1,0.37078393,0.6292161
+5958,Chicago Cubs,San Diego Padres,0,0.48806965,0.51193035
+2702,Pittsburgh Pirates,Los Angeles Dodgers,0,0.65403384,0.34596616
+4162,Tampa Bay Rays,Toronto Blue Jays,1,0.5137993,0.4862007
+5886,Houston Astros,Miami Marlins,0,0.24224395,0.75775605
+2309,Colorado Rockies,Cincinnati Reds,1,0.49623317,0.50376683
+858,Milwaukee Brewers,Chicago Cubs,1,0.53444374,0.46555623
+7894,Houston Astros,Philadelphia Phillies,1,0.022052824,0.9779472
+6466,St. Louis Cardinals,Cincinnati Reds,1,0.42265844,0.57734156
+528,Atlanta Braves,Washington Nationals,1,0.4206798,0.5793202
+3534,Toronto Blue Jays,Boston Red Sox,1,0.2979328,0.7020672
+2210,San Francisco Giants,San Diego Padres,1,0.53488433,0.4651157
+1573,Texas Rangers,Toronto Blue Jays,1,0.39191318,0.6080868
+6628,Boston Red Sox,Cleveland Guardians,1,0.38966525,0.61033475
+2979,Los Angeles Dodgers,San Francisco Giants,1,0.3973831,0.6026169
+1855,Seattle Mariners,Houston Astros,1,0.43818521,0.5618148
+3739,Tampa Bay Rays,Chicago White Sox,1,0.45835942,0.5416406
+2001,Colorado Rockies,Philadelphia Phillies,0,0.48756468,0.5124353
+3164,San Diego Padres,Colorado Rockies,0,0.4306798,0.5693202
+4349,Seattle Mariners,Los Angeles Angels,0,0.29779845,0.70220155
+1847,Philadelphia Phillies,St. Louis Cardinals,0,0.43818521,0.5618148
+1683,Minnesota Twins,Boston Red Sox,0,0.34136254,0.65863746
+5354,Cincinnati Reds,Milwaukee Brewers,0,0.6497091,0.3502909
+3365,Minnesota Twins,Detroit Tigers,0,0.4751479,0.5248521
+2793,Kansas City Royals,Detroit Tigers,0,0.33916658,0.6608334
+5073,Oakland Athletics,Texas Rangers,0,0.427431,0.572569
+3215,Philadelphia Phillies,Miami Marlins,1,0.46879852,0.5312015
+1489,San Diego Padres,Arizona Diamondbacks,1,0.58244824,0.41755176
+7730,Los Angeles Dodgers,Colorado Rockies,1,0.5617279,0.43827215
+8943,Oakland Athletics,Cincinnati Reds,1,0.5326166,0.46738338
+7168,Seattle Mariners,Cleveland Guardians,1,0.4917891,0.5082109
+5986,Washington Nationals,Philadelphia Phillies,0,0.7852059,0.2147941
+3199,Philadelphia Phillies,Miami Marlins,0,0.45883733,0.54116267
+6453,Miami Marlins,Philadelphia Phillies,0,0.35764498,0.642355
+7979,Cleveland Guardians,Texas Rangers,0,0.4064834,0.5935166
+5531,Chicago Cubs,Arizona Diamondbacks,0,0.47924358,0.5207564
+5577,Seattle Mariners,Oakland Athletics,1,0.44163162,0.5583684
+8827,San Francisco Giants,St. Louis Cardinals,1,0.430781,0.569219
+7298,Colorado Rockies,Milwaukee Brewers,1,0.5016663,0.49833366
+7950,Houston Astros,Philadelphia Phillies,1,0.022052824,0.9779472
+5014,New York Mets,San Francisco Giants,1,0.44736308,0.5526369
+3449,Toronto Blue Jays,Cleveland Indians,1,0.5233003,0.47669968
+8273,Pittsburgh Pirates,Chicago White Sox,0,0.46397108,0.5360289
+5906,St. Louis Cardinals,Cincinnati Reds,0,0.37138933,0.6286107
+3899,San Francisco Giants,Milwaukee Brewers,0,0.41077012,0.5892299
+5996,Detroit Tigers,Texas Rangers,1,0.5626112,0.4373888
+1962,Baltimore Orioles,Oakland Athletics,0,0.44703954,0.55296046
+1918,San Diego Padres,Milwaukee Brewers,0,0.40976804,0.59023196
+1629,Minnesota Twins,Seattle Mariners,0,0.47678924,0.52321076
+8679,Minnesota Twins,Washington Nationals,0,0.35495412,0.6450459
+8859,Miami Marlins,Chicago Cubs,1,0.42254072,0.5774593
+1891,San Diego Padres,Milwaukee Brewers,0,0.45970678,0.5402932
+2744,Los Angeles Dodgers,Texas Rangers,0,0.25824815,0.74175185
+3754,Chicago Cubs,Colorado Rockies,1,0.45835942,0.5416406
+3578,San Diego Padres,Miami Marlins,1,0.4819492,0.5180508
+5707,St. Louis Cardinals,San Diego Padres,1,0.44708723,0.5529128
+2105,Toronto Blue Jays,Atlanta Braves,1,0.42180395,0.57819605
+177,Kansas City Royals,Houston Astros,0,0.45169264,0.54830736
+1647,Atlanta Braves,Philadelphia Phillies,0,0.4612584,0.5387416
+132,Cincinnati Reds,Detroit Tigers,1,0.24969685,0.75030315
+4832,Atlanta Braves,Cincinnati Reds,0,0.31146157,0.68853843
+1399,Tampa Bay Rays,Atlanta Braves,1,0.42751122,0.5724888
+4050,Los Angeles Dodgers,San Diego Padres,1,0.45798892,0.5420111
+6944,Chicago White Sox,Houston Astros,1,0.4579423,0.5420577
+8608,Oakland Athletics,Chicago Cubs,0,0.7457816,0.2542184
+0,Washington Nationals,New York Yankees,0,0.3378762,0.6621238
+5363,Seattle Mariners,Philadelphia Phillies,0,0.66126704,0.33873296
+4330,St. Louis Cardinals,Chicago Cubs,1,0.33356947,0.66643053
+5695,Philadelphia Phillies,San Francisco Giants,0,0.44080055,0.55919945
+8133,Boston Red Sox,Pittsburgh Pirates,0,0.4064834,0.5935166
+3367,Seattle Mariners,Houston Astros,0,0.50981236,0.49018767
+5226,St. Louis Cardinals,Kansas City Royals,1,0.42825615,0.57174385
+6485,San Francisco Giants,Milwaukee Brewers,1,0.43563282,0.5643672
+6826,Houston Astros,Texas Rangers,1,0.3502249,0.6497751
+8912,Milwaukee Brewers,Los Angeles Angels,1,0.19955754,0.80044246
+4689,Tampa Bay Rays,Minnesota Twins,1,0.39543003,0.60457
+4868,Los Angeles Angels,Houston Astros,1,0.5417221,0.45827788
+149,Washington Nationals,New York Yankees,0,0.76110846,0.23889156
+8937,Minnesota Twins,Kansas City Royals,1,0.19836527,0.8016347
+4977,Texas Rangers,Los Angeles Angels,0,0.6191481,0.38085192
+4538,Houston Astros,Atlanta Braves,0,0.98771983,0.012280168
+1084,Miami Marlins,Atlanta Braves,0,0.5664153,0.4335847
+419,San Diego Padres,Arizona Diamondbacks,0,0.37788945,0.62211055
+416,Kansas City Royals,Minnesota Twins,1,0.4765334,0.5234666
+7384,Milwaukee Brewers,Cincinnati Reds,1,0.56596667,0.43403333
+7831,San Diego Padres,Philadelphia Phillies,1,0.44477904,0.55522096
+4613,Cincinnati Reds,San Francisco Giants,1,0.3953842,0.6046158
+4863,Washington Nationals,New York Mets,1,0.54549885,0.45450112
+157,Boston Red Sox,Baltimore Orioles,1,0.4792384,0.5207616
+6845,Chicago Cubs,Washington Nationals,1,0.43792439,0.5620756
+5317,Minnesota Twins,Oakland Athletics,1,0.4086252,0.5913748
+8270,New York Mets,Miami Marlins,1,0.4064834,0.5935166
+6903,Colorado Rockies,Arizona Diamondbacks,0,0.59157085,0.40842912
+1562,San Diego Padres,San Francisco Giants,0,0.43818521,0.5618148
+5967,New York Mets,Milwaukee Brewers,1,0.4574892,0.5425108
+2587,New York Yankees,Tampa Bay Rays,1,0.41560555,0.58439445
+199,Los Angeles Angels,San Diego Padres,0,0.3378762,0.6621238
+2016,Houston Astros,Los Angeles Angels,1,0.42180395,0.57819605
+735,Houston Astros,Texas Rangers,1,0.31569368,0.6843063
+4897,San Francisco Giants,San Diego Padres,1,0.55343384,0.44656616
+8398,Arizona Diamondbacks,Milwaukee Brewers,0,0.46397108,0.5360289
+4021,Pittsburgh Pirates,Washington Nationals,1,0.55820125,0.44179875
+37,Houston Astros,Seattle Mariners,1,0.10023904,0.89976096
+8626,Los Angeles Dodgers,New York Mets,0,0.6843697,0.31563032
+6441,San Francisco Giants,Milwaukee Brewers,0,0.49175382,0.5082462
+2996,Oakland Athletics,Texas Rangers,0,0.37571883,0.62428117
+6341,Boston Red Sox,New York Yankees,0,0.63122845,0.36877158
+6178,Chicago Cubs,Cincinnati Reds,1,0.4027294,0.5972706
+7773,Texas Rangers,New York Yankees,1,0.41932815,0.58067185
+4653,New York Yankees,Toronto Blue Jays,0,0.422723,0.577277
+4269,Colorado Rockies,Washington Nationals,1,0.37431657,0.6256834
+1167,Los Angeles Dodgers,Tampa Bay Rays,1,0.108905554,0.89109445
+6194,St. Louis Cardinals,Miami Marlins,0,0.5881942,0.4118058
+6593,Seattle Mariners,Texas Rangers,1,0.47536635,0.52463365
+7490,Los Angeles Angels,Seattle Mariners,1,0.37040502,0.629595
+5917,St. Louis Cardinals,Pittsburgh Pirates,1,0.38691044,0.61308956
+3662,Kansas City Royals,Houston Astros,1,0.42102313,0.57897687
+3201,Pittsburgh Pirates,New York Mets,1,0.5315902,0.46840975
+3546,Kansas City Royals,New York Yankees,0,0.5270991,0.47290093
+7817,San Diego Padres,Los Angeles Dodgers,1,0.45885962,0.5411404
+8450,Seattle Mariners,Colorado Rockies,1,0.4681509,0.5318491
+1112,Los Angeles Dodgers,Tampa Bay Rays,1,0.108905554,0.89109445
+6410,San Francisco Giants,Arizona Diamondbacks,1,0.4493338,0.5506662
+3646,Cincinnati Reds,Chicago Cubs,1,0.19110894,0.80889106
+817,Texas Rangers,Los Angeles Angels,0,0.53444374,0.46555623
+2401,Seattle Mariners,Detroit Tigers,0,0.32128328,0.6787167
+6102,Minnesota Twins,Colorado Rockies,0,0.4886871,0.5113129
+4691,Cleveland Guardians,Milwaukee Brewers,1,0.4524989,0.5475011
+251,Houston Astros,Seattle Mariners,1,0.19660205,0.80339795
+2785,Toronto Blue Jays,New York Yankees,0,0.42180395,0.57819605
+2255,Arizona Diamondbacks,Miami Marlins,1,0.44812638,0.5518736
+2173,Chicago Cubs,Los Angeles Dodgers,1,0.6335324,0.36646757
+2999,Chicago White Sox,Minnesota Twins,1,0.41560555,0.58439445
+1572,Boston Red Sox,Tampa Bay Rays,1,0.44594562,0.5540544
+1548,Oakland Athletics,Los Angeles Dodgers,1,0.4764418,0.5235582
+7561,Oakland Athletics,Seattle Mariners,0,0.48093224,0.51906776
+6774,Los Angeles Dodgers,San Diego Padres,1,0.44889975,0.55110025
+1268,Washington Nationals,New York Mets,1,0.54703724,0.4529628
+1083,Houston Astros,Oakland Athletics,0,0.3693729,0.6306271
+3019,Washington Nationals,Los Angeles Dodgers,0,0.56450665,0.43549332
+7160,Houston Astros,Baltimore Orioles,1,0.12048042,0.8795196
+7596,Texas Rangers,Cleveland Guardians,0,0.5272459,0.4727541
+8703,Minnesota Twins,Washington Nationals,0,0.2305023,0.7694977
+3102,Texas Rangers,Detroit Tigers,1,0.4129315,0.5870685
+6838,Los Angeles Dodgers,Minnesota Twins,1,0.45228404,0.54771596
+3837,Texas Rangers,Houston Astros,0,0.7636428,0.2363572
+8622,Kansas City Royals,Texas Rangers,0,0.6844927,0.31550732
+3187,Baltimore Orioles,Chicago White Sox,0,0.6311295,0.36887053
+8863,Boston Red Sox,Cleveland Guardians,0,0.6240654,0.3759346
+2792,Kansas City Royals,Detroit Tigers,0,0.33916658,0.6608334
+2334,Arizona Diamondbacks,Washington Nationals,1,0.47484738,0.5251526
+1811,Los Angeles Angels,Minnesota Twins,1,0.43818521,0.5618148
+3056,Cincinnati Reds,Chicago Cubs,1,0.41560555,0.58439445
+4196,Minnesota Twins,Toronto Blue Jays,1,0.5819931,0.41800687
+5169,Oakland Athletics,Cleveland Guardians,0,0.44401532,0.5559847
+1466,San Diego Padres,Arizona Diamondbacks,1,0.40714484,0.59285516
+7092,San Diego Padres,Cleveland Guardians,0,0.4665752,0.5334248
+7678,Houston Astros,Tampa Bay Rays,0,0.4150417,0.5849583
+8302,Los Angeles Angels,Toronto Blue Jays,0,0.3597443,0.6402557
+4079,Los Angeles Dodgers,Arizona Diamondbacks,1,0.3745942,0.6254058
+5527,Boston Red Sox,Seattle Mariners,1,0.5105165,0.4894835
+6018,Chicago Cubs,Atlanta Braves,0,0.5072938,0.49270615
+513,Chicago White Sox,St. Louis Cardinals,1,0.4026537,0.5973463
+8659,Chicago Cubs,Los Angeles Dodgers,1,0.8066574,0.19334264
+274,Cincinnati Reds,Chicago Cubs,0,0.6981467,0.30185333
+6211,Colorado Rockies,Arizona Diamondbacks,0,0.46065295,0.53934705
+5379,Los Angeles Angels,Tampa Bay Rays,1,0.45566148,0.5443385
+6000,Los Angeles Dodgers,Cleveland Guardians,0,0.2548722,0.7451278
+2046,Milwaukee Brewers,Miami Marlins,1,0.4287259,0.5712741
+6535,Cincinnati Reds,St. Louis Cardinals,0,0.5897029,0.4102971
+7364,Milwaukee Brewers,Cincinnati Reds,0,0.16327655,0.83672345
+706,Colorado Rockies,San Diego Padres,0,0.55015296,0.44984704
+8890,Detroit Tigers,Baltimore Orioles,0,0.4116686,0.5883314
+1024,Minnesota Twins,Cincinnati Reds,0,0.3305447,0.6694553
+4098,Tampa Bay Rays,Detroit Tigers,1,0.4418149,0.5581851
+3149,San Diego Padres,Colorado Rockies,1,0.13357419,0.8664258
+3323,Seattle Mariners,Oakland Athletics,1,0.4069929,0.5930071
+767,Seattle Mariners,Texas Rangers,1,0.38223583,0.6177642
+7724,Chicago Cubs,Cincinnati Reds,1,0.39512676,0.60487324
+7093,Philadelphia Phillies,Cincinnati Reds,1,0.16704851,0.8329515
+1170,Los Angeles Dodgers,Tampa Bay Rays,1,0.108905554,0.89109445
+7816,Philadelphia Phillies,Atlanta Braves,1,0.3653425,0.6346575
+5839,Cincinnati Reds,Arizona Diamondbacks,0,0.44080055,0.55919945
+6067,Atlanta Braves,San Francisco Giants,1,0.48607534,0.51392466
+8553,San Diego Padres,Atlanta Braves,0,0.9048657,0.09513432
+5019,Washington Nationals,Arizona Diamondbacks,0,0.427431,0.572569
+8045,Kansas City Royals,Minnesota Twins,0,0.6174805,0.3825195
+2983,Philadelphia Phillies,Miami Marlins,1,0.41680735,0.58319265
+1008,Washington Nationals,New York Mets,0,0.4452423,0.5547577
+79,San Diego Padres,Arizona Diamondbacks,1,0.3378762,0.6621238
+6025,Arizona Diamondbacks,Minnesota Twins,1,0.5077145,0.4922855
+6775,Los Angeles Dodgers,San Diego Padres,1,0.44889975,0.55110025
+6007,Pittsburgh Pirates,San Francisco Giants,0,0.65358543,0.3464146
+1596,Colorado Rockies,Arizona Diamondbacks,0,0.43818521,0.5618148
+4656,Cleveland Guardians,Oakland Athletics,1,0.4092304,0.5907696
+6329,Milwaukee Brewers,Pittsburgh Pirates,1,0.34319025,0.65680975
+6293,Detroit Tigers,Cleveland Guardians,1,0.5494224,0.45057762
+8834,Pittsburgh Pirates,Los Angeles Dodgers,1,0.78428525,0.21571474
+453,Toronto Blue Jays,Miami Marlins,1,0.46690267,0.5330973
+2070,St. Louis Cardinals,Philadelphia Phillies,0,0.47484738,0.5251526
+8642,Chicago Cubs,Los Angeles Dodgers,0,0.4766013,0.5233987
+7457,Houston Astros,Oakland Athletics,1,0.6321872,0.3678128
+8830,Los Angeles Angels,Oakland Athletics,1,0.25780028,0.7421997
+7969,Chicago White Sox,San Diego Padres,0,0.40065265,0.59934735
+1204,Los Angeles Dodgers,Tampa Bay Rays,1,0.108905554,0.89109445
+4458,Houston Astros,Atlanta Braves,0,0.98771983,0.012280168
+68,Cleveland Indians,Kansas City Royals,1,0.1415211,0.8584789
+48,Cleveland Indians,Kansas City Royals,1,0.1415211,0.8584789
+1081,Atlanta Braves,Miami Marlins,1,0.29937685,0.70062315
+5138,Texas Rangers,Houston Astros,0,0.59216726,0.40783274
+2865,Los Angeles Angels,Detroit Tigers,1,0.4287259,0.5712741
+2959,San Diego Padres,Arizona Diamondbacks,0,0.09407061,0.9059294
+8591,Colorado Rockies,Pittsburgh Pirates,0,0.56760716,0.43239284
+4842,Philadelphia Phillies,Oakland Athletics,1,0.36087608,0.6391239
+4197,Milwaukee Brewers,St. Louis Cardinals,0,0.4899286,0.5100714
+401,Texas Rangers,Los Angeles Angels,1,0.42078167,0.5792183
+3182,San Francisco Giants,Washington Nationals,1,0.3512057,0.6487943
+230,St. Louis Cardinals,Pittsburgh Pirates,1,0.3107813,0.6892187
+41,Oakland Athletics,Los Angeles Angels,0,0.3378762,0.6621238
+6034,Chicago White Sox,Toronto Blue Jays,1,0.55109954,0.44890043
+3601,Detroit Tigers,Cleveland Indians,0,0.57466894,0.42533106
+7642,Houston Astros,Arizona Diamondbacks,1,0.18872511,0.8112749
+4229,Tampa Bay Rays,Miami Marlins,1,0.4509217,0.5490783
+6620,Colorado Rockies,Chicago White Sox,1,0.38150996,0.61849004
+2556,Detroit Tigers,New York Yankees,1,0.6559173,0.34408268
+6908,Miami Marlins,Atlanta Braves,0,0.56663907,0.4333609
+3784,Milwaukee Brewers,Cincinnati Reds,1,0.37046278,0.6295372
+4350,Chicago White Sox,Detroit Tigers,0,0.1898486,0.8101514
+8607,Los Angeles Dodgers,New York Mets,0,0.7457816,0.2542184
+2217,Chicago Cubs,Pittsburgh Pirates,1,0.34221768,0.6577823
+3348,Philadelphia Phillies,Washington Nationals,0,0.34583366,0.65416634
+2471,Minnesota Twins,Baltimore Orioles,1,0.3079695,0.6920305
+61,Oakland Athletics,Los Angeles Angels,0,0.3378762,0.6621238
+7341,Milwaukee Brewers,Cincinnati Reds,1,0.4743873,0.5256127
+5583,Cincinnati Reds,Chicago Cubs,0,0.5724497,0.42755035
+6740,San Diego Padres,Colorado Rockies,1,0.41012788,0.5898721
+410,Oakland Athletics,Houston Astros,1,0.47665942,0.5233406
+339,Arizona Diamondbacks,Los Angeles Dodgers,0,0.49058497,0.50941503
+7193,Milwaukee Brewers,Pittsburgh Pirates,0,0.4139825,0.5860175
+1036,Cleveland Indians,Pittsburgh Pirates,0,0.3883223,0.6116777
+7200,New York Mets,Los Angeles Dodgers,1,0.46008456,0.53991544
+7609,Los Angeles Dodgers,St. Louis Cardinals,1,0.4563895,0.5436105
+6460,Tampa Bay Rays,Baltimore Orioles,1,0.4861709,0.5138291
+1378,Milwaukee Brewers,Chicago White Sox,0,0.4227506,0.5772494
+6097,Tampa Bay Rays,Pittsburgh Pirates,1,0.38554704,0.61445296
+5395,Pittsburgh Pirates,Cincinnati Reds,0,0.4927522,0.5072478
+7691,Washington Nationals,Philadelphia Phillies,0,0.66268945,0.33731058
+1880,Cincinnati Reds,Arizona Diamondbacks,0,0.431926,0.568074
+8084,Kansas City Royals,Minnesota Twins,0,0.73241925,0.26758072
+1358,Arizona Diamondbacks,Cleveland Indians,1,0.38304955,0.61695045
+3516,Colorado Rockies,Miami Marlins,1,0.48794508,0.5120549
+4036,Detroit Tigers,Tampa Bay Rays,0,0.6566555,0.3433445
+7225,Chicago White Sox,Minnesota Twins,1,0.38903964,0.61096036
+1395,Philadelphia Phillies,New York Yankees,1,0.4227506,0.5772494
+8477,Oakland Athletics,New York Mets,0,0.7452116,0.25478843
+5662,Washington Nationals,Colorado Rockies,1,0.52360785,0.47639212
+729,New York Yankees,Tampa Bay Rays,0,0.36782676,0.63217324
+3259,Milwaukee Brewers,Kansas City Royals,0,0.42026508,0.5797349
+3255,Chicago White Sox,Minnesota Twins,0,0.14284241,0.8571576
+6811,Oakland Athletics,San Francisco Giants,0,0.8026236,0.19737636
+7020,Atlanta Braves,Houston Astros,1,0.48805255,0.51194745
+4175,Detroit Tigers,Chicago White Sox,1,0.57602733,0.42397267
+719,Cincinnati Reds,St. Louis Cardinals,0,0.39501476,0.60498524
+1131,Los Angeles Dodgers,Tampa Bay Rays,1,0.108905554,0.89109445
+2009,Colorado Rockies,Philadelphia Phillies,1,0.42180395,0.57819605
+386,Pittsburgh Pirates,Minnesota Twins,1,0.7189857,0.2810143
+8613,Seattle Mariners,Milwaukee Brewers,0,0.6022363,0.39776373
+4902,Atlanta Braves,Washington Nationals,0,0.45216095,0.54783905
+4478,Houston Astros,Atlanta Braves,0,0.98771983,0.012280168
+6137,Tampa Bay Rays,Pittsburgh Pirates,1,0.22224706,0.77775294
+7844,Houston Astros,Philadelphia Phillies,0,0.3862136,0.6137864
+388,Cleveland Indians,Cincinnati Reds,1,0.39884883,0.60115117
+6017,Detroit Tigers,Texas Rangers,1,0.53440255,0.46559745
+3773,St. Louis Cardinals,Detroit Tigers,0,0.102642894,0.8973571
+2211,San Francisco Giants,San Diego Padres,1,0.53488433,0.4651157
+1260,Los Angeles Angels,Texas Rangers,1,0.54703724,0.4529628
+1660,Atlanta Braves,Philadelphia Phillies,1,0.43818521,0.5618148
+4173,Oakland Athletics,Seattle Mariners,0,0.45835942,0.5416406
+6455,Cleveland Guardians,Detroit Tigers,1,0.36950922,0.6304908
+6308,Philadelphia Phillies,Washington Nationals,0,0.23557675,0.76442325
+6172,Kansas City Royals,Texas Rangers,1,0.47904134,0.52095866
+8368,Colorado Rockies,St. Louis Cardinals,0,0.69472045,0.30527955
+8149,Kansas City Royals,Toronto Blue Jays,1,0.6452106,0.35478938
+5129,Texas Rangers,Houston Astros,0,0.43299246,0.56700754
+8455,New York Yankees,Minnesota Twins,0,0.6059692,0.39403078
+5943,Seattle Mariners,Minnesota Twins,1,0.48806965,0.51193035
+3167,New York Mets,Pittsburgh Pirates,0,0.37602466,0.62397534
+1221,Los Angeles Dodgers,Tampa Bay Rays,1,0.108905554,0.89109445
+5440,New York Mets,Seattle Mariners,0,0.44080055,0.55919945
+883,Chicago White Sox,Minnesota Twins,1,0.5129526,0.48704737
+2647,Milwaukee Brewers,Arizona Diamondbacks,1,0.27534652,0.7246535
+7868,Houston Astros,Philadelphia Phillies,1,0.022052824,0.9779472
+8828,San Francisco Giants,St. Louis Cardinals,0,0.430781,0.569219
+6432,Cleveland Guardians,Detroit Tigers,1,0.24762177,0.7523782
+8712,Baltimore Orioles,Detroit Tigers,1,0.42796075,0.57203925
+1530,Oakland Athletics,Los Angeles Dodgers,0,0.55639315,0.44360688
+6778,Minnesota Twins,Toronto Blue Jays,1,0.47525918,0.5247408
+2491,Los Angeles Angels,Texas Rangers,1,0.42180395,0.57819605
+6690,New York Yankees,Seattle Mariners,1,0.55906856,0.44093144
+7982,Los Angeles Angels,Chicago White Sox,1,0.4003542,0.5996458
+3235,Arizona Diamondbacks,Chicago Cubs,1,0.5028861,0.49711388
+8202,Texas Rangers,Baltimore Orioles,0,0.42223865,0.57776135
+8293,Baltimore Orioles,New York Yankees,0,0.5631988,0.4368012
+3434,Arizona Diamondbacks,Los Angeles Dodgers,0,0.7229141,0.2770859
+1830,San Diego Padres,Los Angeles Dodgers,1,0.56447804,0.43552193
+3050,Oakland Athletics,Boston Red Sox,0,0.41560555,0.58439445
+8733,Arizona Diamondbacks,San Diego Padres,0,0.6273683,0.37263173
+2037,Tampa Bay Rays,Oakland Athletics,0,0.57301986,0.42698017
+3550,Chicago Cubs,Milwaukee Brewers,0,0.7348853,0.26511472
+1551,San Diego Padres,San Francisco Giants,1,0.5123801,0.48761985
+8753,Seattle Mariners,St. Louis Cardinals,1,0.48171997,0.51828
+4212,Detroit Tigers,Kansas City Royals,0,0.45899814,0.54100186
+214,Houston Astros,Seattle Mariners,1,0.13278937,0.8672106
+7450,St. Louis Cardinals,Cincinnati Reds,1,0.32608432,0.6739157
+5481,Milwaukee Brewers,Atlanta Braves,1,0.4574892,0.5425108
+887,New York Yankees,Toronto Blue Jays,1,0.419402,0.580598
+8020,New York Yankees,Detroit Tigers,1,0.2906322,0.7093678
+8253,Baltimore Orioles,New York Yankees,1,0.5340078,0.46599224
+4522,Houston Astros,Atlanta Braves,0,0.98771983,0.012280168
+4084,Philadelphia Phillies,Chicago Cubs,1,0.34918612,0.6508139
+181,Cincinnati Reds,Detroit Tigers,1,0.4092121,0.5907879
+2327,Arizona Diamondbacks,Washington Nationals,0,0.42180395,0.57819605
+7196,San Francisco Giants,San Diego Padres,0,0.6300057,0.36999428
+3312,Minnesota Twins,Los Angeles Angels,0,0.33159512,0.6684049
+5074,Oakland Athletics,Texas Rangers,0,0.427431,0.572569
+4057,San Francisco Giants,San Diego Padres,1,0.47852832,0.5214717
+8257,Pittsburgh Pirates,Chicago White Sox,1,0.655011,0.344989
+6221,San Francisco Giants,Chicago White Sox,0,0.44748992,0.5525101
+5386,Seattle Mariners,Philadelphia Phillies,0,0.48560238,0.5143976
+2454,Minnesota Twins,Baltimore Orioles,1,0.48689663,0.51310337
+8555,Seattle Mariners,Milwaukee Brewers,0,0.833849,0.16615097
+2027,Los Angeles Dodgers,San Diego Padres,1,0.44703954,0.55296046
+554,Arizona Diamondbacks,Oakland Athletics,1,0.6086482,0.39135182
+3800,Pittsburgh Pirates,St. Louis Cardinals,1,0.6486409,0.3513591
+2457,Detroit Tigers,Cleveland Indians,0,0.45740902,0.542591
+2961,Toronto Blue Jays,Baltimore Orioles,1,0.16685307,0.8331469
+2708,Tampa Bay Rays,Baltimore Orioles,1,0.4164245,0.5835755
+4086,Atlanta Braves,Colorado Rockies,0,0.41002357,0.58997643
+6925,Colorado Rockies,Arizona Diamondbacks,0,0.4587801,0.5412199
+8656,Minnesota Twins,Washington Nationals,0,0.43302166,0.56697834
+3551,Minnesota Twins,Chicago White Sox,0,0.7240201,0.2759799
+7198,Cincinnati Reds,St. Louis Cardinals,0,0.7403184,0.2596816
+6842,Milwaukee Brewers,Tampa Bay Rays,1,0.47678822,0.5232118
+6232,Houston Astros,Los Angeles Angels,1,0.39507377,0.6049262
+7777,Chicago White Sox,Minnesota Twins,1,0.4228552,0.5771448
+7456,Atlanta Braves,Philadelphia Phillies,1,0.49584967,0.50415033
+4563,Houston Astros,Atlanta Braves,0,0.98771983,0.012280168
+8715,Milwaukee Brewers,Boston Red Sox,0,0.44484687,0.55515313
+1817,Cincinnati Reds,Cleveland Indians,1,0.43818521,0.5618148
+3384,Kansas City Royals,Chicago White Sox,1,0.5206033,0.4793967
+3540,San Diego Padres,Arizona Diamondbacks,1,0.38810223,0.61189777
+8292,Pittsburgh Pirates,Chicago White Sox,0,0.50903785,0.49096212
+6835,Los Angeles Dodgers,Minnesota Twins,1,0.2696671,0.7303329
+7115,Kansas City Royals,San Diego Padres,0,0.5440185,0.45598152
+8740,Baltimore Orioles,Detroit Tigers,1,0.42796075,0.57203925
+5467,Baltimore Orioles,New York Yankees,0,0.71598816,0.28401187
+5242,Houston Astros,Seattle Mariners,1,0.35012013,0.6498799
+2981,Houston Astros,Baltimore Orioles,0,0.16423887,0.83576113
+8502,Boston Red Sox,Los Angeles Angels,1,0.46604747,0.53395253
+4223,Philadelphia Phillies,Pittsburgh Pirates,1,0.3297847,0.6702153
+4934,Milwaukee Brewers,St. Louis Cardinals,0,0.49546528,0.5045347
+7007,Oakland Athletics,Seattle Mariners,1,0.47618985,0.52381015
+1867,San Diego Padres,Milwaukee Brewers,0,0.47024584,0.52975416
+7211,Detroit Tigers,Seattle Mariners,0,0.55011106,0.44988897
+5599,Houston Astros,Cleveland Guardians,1,0.3712002,0.6287998
+6051,San Diego Padres,Arizona Diamondbacks,1,0.44708723,0.5529128
+8324,Pittsburgh Pirates,Chicago White Sox,1,0.41718692,0.5828131
+7033,Los Angeles Dodgers,Miami Marlins,1,0.3839293,0.6160707
+2615,Colorado Rockies,Oakland Athletics,0,0.5701479,0.42985216
+5056,Atlanta Braves,Miami Marlins,1,0.3574193,0.6425807
+7850,Philadelphia Phillies,Houston Astros,0,0.5247441,0.4752559
+5319,Boston Red Sox,Chicago White Sox,0,0.44305688,0.5569431
+7832,Houston Astros,New York Yankees,1,0.46704215,0.53295785
+3256,Chicago White Sox,Minnesota Twins,1,0.14284241,0.8571576
+2348,Los Angeles Dodgers,Arizona Diamondbacks,1,0.33673924,0.66326076
+1282,Toronto Blue Jays,New York Yankees,0,0.49196666,0.50803334
+2614,Atlanta Braves,Los Angeles Dodgers,0,0.5336806,0.46631938
+4060,New York Mets,St. Louis Cardinals,0,0.5171088,0.48289123
+8699,Seattle Mariners,St. Louis Cardinals,1,0.4511447,0.5488553
+4805,Tampa Bay Rays,Philadelphia Phillies,0,0.38611805,0.61388195
+6880,Houston Astros,Oakland Athletics,1,0.48703045,0.51296955
+587,Oakland Athletics,Los Angeles Angels,0,0.41562223,0.58437777
+7222,Cleveland Guardians,Seattle Mariners,0,0.6362941,0.36370587
+1194,Los Angeles Dodgers,Tampa Bay Rays,1,0.108905554,0.89109445
+4028,Oakland Athletics,Texas Rangers,0,0.34918612,0.6508139
+423,Los Angeles Dodgers,San Francisco Giants,0,0.14255548,0.8574445
+4154,Los Angeles Angels,Oakland Athletics,0,0.523152,0.476848
+8030,Cincinnati Reds,Pittsburgh Pirates,0,0.4064834,0.5935166
+1368,Philadelphia Phillies,New York Yankees,1,0.38304955,0.61695045
+782,Baltimore Orioles,New York Yankees,1,0.6656966,0.33430338
+6609,Cincinnati Reds,Miami Marlins,1,0.47536635,0.52463365
+1229,Los Angeles Dodgers,Tampa Bay Rays,1,0.108905554,0.89109445
+7087,Baltimore Orioles,Chicago White Sox,0,0.48578793,0.5142121
+6520,Chicago White Sox,Cleveland Guardians,1,0.46515673,0.53484327
+6911,Houston Astros,Oakland Athletics,1,0.36050588,0.6394941
+1367,Boston Red Sox,Minnesota Twins,0,0.43640107,0.56359893
+6416,Minnesota Twins,Milwaukee Brewers,1,0.43874323,0.56125677
+1462,Oakland Athletics,Houston Astros,0,0.47735322,0.5226468
+335,Colorado Rockies,San Diego Padres,1,0.41547006,0.58452994
+5357,Texas Rangers,Kansas City Royals,1,0.427431,0.572569
+5421,Detroit Tigers,Baltimore Orioles,1,0.47887862,0.5211214
+3831,Chicago White Sox,Chicago Cubs,0,0.17153853,0.82846147
+4720,Arizona Diamondbacks,San Diego Padres,1,0.46195596,0.53804404
+6924,Texas Rangers,Seattle Mariners,1,0.48578793,0.5142121
+5146,New York Yankees,Baltimore Orioles,1,0.13404769,0.8659523
+1139,Los Angeles Dodgers,Tampa Bay Rays,1,0.108905554,0.89109445
+4663,Miami Marlins,Houston Astros,0,0.435359,0.564641
+6672,Pittsburgh Pirates,Philadelphia Phillies,0,0.45217496,0.54782504
+3098,Arizona Diamondbacks,Colorado Rockies,1,0.41706067,0.5829393
+5897,Los Angeles Angels,New York Mets,1,0.4800263,0.5199737
+1323,Cleveland Indians,Milwaukee Brewers,0,0.38766336,0.61233664
+6578,Milwaukee Brewers,Colorado Rockies,0,0.35829157,0.64170843
+4590,Chicago White Sox,Cleveland Guardians,0,0.4092304,0.5907696
+4836,Arizona Diamondbacks,San Diego Padres,0,0.48730636,0.51269364
+3253,St. Louis Cardinals,Chicago Cubs,1,0.5356616,0.46433842
+2562,Los Angeles Dodgers,St. Louis Cardinals,1,0.3282655,0.6717345
+3508,New York Yankees,Seattle Mariners,1,0.45675564,0.54324436
+8718,Arizona Diamondbacks,San Diego Padres,0,0.8564844,0.1435156
+996,Cincinnati Reds,Milwaukee Brewers,1,0.39501476,0.60498524
+4636,Pittsburgh Pirates,Minnesota Twins,1,0.4092304,0.5907696
+3975,Colorado Rockies,San Francisco Giants,0,0.77561283,0.22438718
+3453,Chicago White Sox,Kansas City Royals,1,0.38057733,0.6194227
+5972,Chicago Cubs,Atlanta Braves,1,0.6854266,0.31457344
+2555,Tampa Bay Rays,Philadelphia Phillies,1,0.47970712,0.5202929
+2193,New York Yankees,Washington Nationals,0,0.385691,0.614309
+6813,New York Mets,Cincinnati Reds,1,0.42840952,0.5715905
+1324,Minnesota Twins,Atlanta Braves,1,0.38766336,0.61233664
+7437,Minnesota Twins,Kansas City Royals,1,0.37891287,0.62108713
+3110,Texas Rangers,Detroit Tigers,0,0.44389558,0.5561044
+8606,Los Angeles Dodgers,New York Mets,1,0.7457816,0.2542184
+8372,Arizona Diamondbacks,Milwaukee Brewers,1,0.46397108,0.5360289
+8169,Texas Rangers,Baltimore Orioles,1,0.4064834,0.5935166
+7386,Colorado Rockies,Arizona Diamondbacks,1,0.6952022,0.30479783
+8795,Arizona Diamondbacks,Kansas City Royals,0,0.37631738,0.6236826
+3210,Arizona Diamondbacks,Chicago Cubs,0,0.5941303,0.40586972
+3428,Detroit Tigers,Baltimore Orioles,1,0.45835942,0.5416406
+5204,Colorado Rockies,Cincinnati Reds,1,0.46604276,0.53395724
+5554,Baltimore Orioles,Tampa Bay Rays,1,0.54985166,0.45014834
+6995,Baltimore Orioles,Boston Red Sox,1,0.4843362,0.5156638
+8938,Milwaukee Brewers,Los Angeles Angels,0,0.21498251,0.7850175
+5788,Texas Rangers,Seattle Mariners,0,0.45021415,0.54978585
+1343,Arizona Diamondbacks,Seattle Mariners,0,0.38304955,0.61695045
+2307,Detroit Tigers,Chicago Cubs,0,0.5270424,0.4729576
+763,Atlanta Braves,Washington Nationals,0,0.24145848,0.7585415
+3474,St. Louis Cardinals,Atlanta Braves,0,0.5353585,0.4646415
+8575,Detroit Tigers,Cleveland Guardians,1,0.74663794,0.25336203
+6735,Pittsburgh Pirates,Milwaukee Brewers,1,0.62120295,0.37879702
+7111,Texas Rangers,Detroit Tigers,0,0.4665752,0.5334248
+5162,Tampa Bay Rays,Seattle Mariners,1,0.4008143,0.5991857
+1658,Texas Rangers,San Diego Padres,0,0.43818521,0.5618148
+3269,Chicago White Sox,Minnesota Twins,0,0.41943485,0.58056515
+8459,Kansas City Royals,Atlanta Braves,0,0.6699788,0.3300212
+7578,Texas Rangers,Cleveland Guardians,0,0.46420282,0.5357972
+6429,Chicago Cubs,New York Mets,0,0.6229974,0.37700257
+4760,New York Mets,Miami Marlins,1,0.4246595,0.5753405
+5358,Chicago White Sox,Cleveland Guardians,1,0.37771624,0.62228376
+443,Seattle Mariners,Colorado Rockies,0,0.48044157,0.5195584
+4562,Houston Astros,Atlanta Braves,0,0.98771983,0.012280168
+8842,Chicago White Sox,Tampa Bay Rays,0,0.70924675,0.29075325
+312,Atlanta Braves,Tampa Bay Rays,1,0.6284474,0.37155262
+3823,Cleveland Indians,Boston Red Sox,0,0.63810235,0.36189765
+87,Philadelphia Phillies,Miami Marlins,0,0.3181674,0.6818326
+7549,Colorado Rockies,San Francisco Giants,0,0.35472602,0.645274
+5789,Oakland Athletics,Boston Red Sox,0,0.4927522,0.5072478
+1047,Los Angeles Dodgers,Los Angeles Angels,1,0.41134453,0.5886555
+4654,New York Mets,Washington Nationals,1,0.43089336,0.56910664
+5759,Texas Rangers,Seattle Mariners,1,0.50889754,0.4911025
+1621,Texas Rangers,San Diego Padres,0,0.43818521,0.5618148
+6498,San Diego Padres,Arizona Diamondbacks,1,0.95740795,0.042592052
+2977,Milwaukee Brewers,Chicago Cubs,1,0.38748646,0.61251354
+5025,Colorado Rockies,Philadelphia Phillies,0,0.53387046,0.46612954
+7080,Detroit Tigers,San Francisco Giants,1,0.56926644,0.43073353
+6014,Toronto Blue Jays,New York Yankees,1,0.5072938,0.49270615
+257,Chicago White Sox,Minnesota Twins,0,0.49208134,0.50791866
+4345,New York Yankees,Tampa Bay Rays,1,0.3287313,0.6712687
+291,Los Angeles Angels,Seattle Mariners,1,0.56463534,0.43536466
+8223,Houston Astros,Detroit Tigers,1,0.22526252,0.7747375
+5811,Houston Astros,Seattle Mariners,1,0.4027124,0.5972876
+7899,Houston Astros,Philadelphia Phillies,1,0.022052824,0.9779472
+6199,Pittsburgh Pirates,Milwaukee Brewers,1,0.50797236,0.49202764
+5508,Houston Astros,Texas Rangers,0,0.4256022,0.5743978
+2228,Oakland Athletics,Tampa Bay Rays,1,0.4887498,0.5112502
+2822,Houston Astros,Chicago White Sox,1,0.45811546,0.54188454
+6269,Washington Nationals,Miami Marlins,0,0.51396745,0.48603255
+760,Pittsburgh Pirates,Cincinnati Reds,0,0.4834833,0.5165167
+3411,Toronto Blue Jays,Kansas City Royals,1,0.16135907,0.8386409
+7556,Texas Rangers,Los Angeles Angels,1,0.39893597,0.601064
+5128,Los Angeles Angels,Cleveland Guardians,1,0.465679,0.534321
+553,Arizona Diamondbacks,Oakland Athletics,1,0.6086482,0.39135182
+1837,Milwaukee Brewers,Pittsburgh Pirates,0,0.4883948,0.5116052
+8845,Texas Rangers,New York Yankees,0,0.6907908,0.30920923
+4278,Kansas City Royals,Cleveland Indians,1,0.39347398,0.606526
+8801,Philadelphia Phillies,Seattle Mariners,1,0.37453222,0.6254678
+2003,Los Angeles Dodgers,San Diego Padres,1,0.4447956,0.5552044
+2150,Oakland Athletics,Toronto Blue Jays,1,0.4447956,0.5552044
+3688,Texas Rangers,Seattle Mariners,0,0.5628358,0.43716422
+4808,Chicago Cubs,Milwaukee Brewers,1,0.4593004,0.5406996
+4415,Los Angeles Dodgers,Atlanta Braves,1,0.38228875,0.61771125
+1603,St. Louis Cardinals,Milwaukee Brewers,1,0.45535958,0.5446404
+823,Miami Marlins,Philadelphia Phillies,1,0.47484303,0.525157
+3808,Chicago White Sox,Chicago Cubs,1,0.18314731,0.8168527
+1465,Colorado Rockies,Los Angeles Dodgers,0,0.54055595,0.45944402
+56,St. Louis Cardinals,Pittsburgh Pirates,1,0.28565753,0.7143425
+69,Chicago Cubs,Milwaukee Brewers,1,0.3378762,0.6621238
+4476,Houston Astros,Atlanta Braves,0,0.98771983,0.012280168
+734,Houston Astros,Texas Rangers,1,0.31569368,0.6843063
+8774,Tampa Bay Rays,Houston Astros,0,0.4323098,0.5676902
+265,San Diego Padres,Arizona Diamondbacks,1,0.4476201,0.5523799
+4622,Pittsburgh Pirates,Baltimore Orioles,0,0.4092304,0.5907696
+1492,Colorado Rockies,Los Angeles Dodgers,0,0.60212326,0.3978767
+4367,Houston Astros,Chicago White Sox,1,0.37431657,0.6256834
+5081,Los Angeles Angels,Baltimore Orioles,0,0.2044084,0.7955916
+2665,Detroit Tigers,Seattle Mariners,1,0.45740902,0.542591
+6160,Cleveland Guardians,Minnesota Twins,1,0.48161316,0.51838684
+4063,Seattle Mariners,Boston Red Sox,1,0.62091935,0.37908068
+7496,Washington Nationals,Miami Marlins,0,0.52988696,0.470113
+5380,Los Angeles Angels,Tampa Bay Rays,0,0.45566148,0.5443385
+4033,Los Angeles Dodgers,San Diego Padres,1,0.3643604,0.6356396
+4764,Chicago White Sox,Colorado Rockies,0,0.3620963,0.6379037
+6876,Colorado Rockies,Arizona Diamondbacks,1,0.47447926,0.52552074
+7098,New York Mets,Colorado Rockies,1,0.5465063,0.45349368
+6122,San Francisco Giants,Cincinnati Reds,1,0.4024769,0.5975231
+7044,Oakland Athletics,Seattle Mariners,1,0.63656014,0.36343986
+5612,Pittsburgh Pirates,Colorado Rockies,1,0.48492664,0.51507336
+7159,Milwaukee Brewers,Chicago Cubs,1,0.47678822,0.5232118
+5828,Atlanta Braves,Oakland Athletics,1,0.19910389,0.8008961
+3740,Baltimore Orioles,Atlanta Braves,0,0.6134584,0.38654158
+7869,Houston Astros,Philadelphia Phillies,1,0.022052824,0.9779472
+8247,Milwaukee Brewers,St. Louis Cardinals,1,0.46397108,0.5360289
+5344,Chicago White Sox,Cleveland Guardians,0,0.35403383,0.6459662
+8620,St. Louis Cardinals,Arizona Diamondbacks,1,0.677479,0.32252097
+5921,Chicago Cubs,San Diego Padres,0,0.52178645,0.47821355
+774,San Francisco Giants,Arizona Diamondbacks,1,0.36054116,0.63945884
+4699,Washington Nationals,St. Louis Cardinals,0,0.4179768,0.5820232
+4978,Colorado Rockies,Chicago Cubs,1,0.39546233,0.60453767
+3648,Chicago White Sox,Oakland Athletics,1,0.52979815,0.47020185
+484,New York Mets,Washington Nationals,1,0.40317076,0.59682924
+6686,San Francisco Giants,Chicago Cubs,1,0.32560784,0.67439216
+8714,Texas Rangers,Oakland Athletics,1,0.25204754,0.74795246
+3163,San Diego Padres,Colorado Rockies,0,0.4306798,0.5693202
+211,Texas Rangers,Colorado Rockies,0,0.3378762,0.6621238
+476,Texas Rangers,Seattle Mariners,1,0.38102072,0.6189793
+4951,Baltimore Orioles,New York Yankees,0,0.55208594,0.44791406
+6929,Los Angeles Angels,Minnesota Twins,1,0.5389216,0.4610784
+8594,San Diego Padres,Atlanta Braves,1,0.8229425,0.1770575
+3045,Atlanta Braves,Miami Marlins,1,0.42180395,0.57819605
+1052,Arizona Diamondbacks,Colorado Rockies,0,0.46788812,0.5321119
+3154,Texas Rangers,Oakland Athletics,1,0.6263727,0.37362728
+7497,Toronto Blue Jays,Baltimore Orioles,0,0.409792,0.590208
+6985,Milwaukee Brewers,Los Angeles Dodgers,1,0.5021565,0.49784353
+5506,Cleveland Guardians,Cincinnati Reds,0,0.44080055,0.55919945
+3960,Los Angeles Angels,Texas Rangers,0,0.4751479,0.5248521
+8552,Colorado Rockies,Pittsburgh Pirates,0,0.5581652,0.44183478
+3804,Baltimore Orioles,Tampa Bay Rays,0,0.5614778,0.43852225
+5960,Boston Red Sox,Oakland Athletics,1,0.33209604,0.66790396
+796,Oakland Athletics,Houston Astros,1,0.42133254,0.57866746
+1543,Colorado Rockies,Arizona Diamondbacks,0,0.4333958,0.5666042
+5405,St. Louis Cardinals,San Francisco Giants,0,0.504993,0.49500698
+5304,Seattle Mariners,Tampa Bay Rays,0,0.61118376,0.38881627
+5062,San Diego Padres,Los Angeles Dodgers,0,0.72634506,0.2736549
+652,Texas Rangers,Oakland Athletics,0,0.43095005,0.56904995
+2590,Houston Astros,Boston Red Sox,0,0.35798037,0.6420196
+196,Oakland Athletics,Los Angeles Angels,1,0.5594375,0.44056252
+6912,Houston Astros,Oakland Athletics,1,0.36050588,0.6394941
+8316,Los Angeles Angels,Toronto Blue Jays,0,0.4064834,0.5935166
+1656,Cleveland Indians,Detroit Tigers,1,0.43818521,0.5618148
+6945,Toronto Blue Jays,Baltimore Orioles,0,0.20203167,0.7979683
+1136,Los Angeles Dodgers,Tampa Bay Rays,1,0.108905554,0.89109445
+5483,Colorado Rockies,San Francisco Giants,1,0.5244782,0.4755218
+8175,Seattle Mariners,Los Angeles Angels,0,0.4064834,0.5935166
+1480,Chicago Cubs,Pittsburgh Pirates,1,0.5113107,0.4886893
+6718,Minnesota Twins,Detroit Tigers,1,0.36598665,0.63401335
+5075,Cincinnati Reds,St. Louis Cardinals,0,0.4913873,0.5086127
+6492,Tampa Bay Rays,Baltimore Orioles,1,0.44748992,0.5525101
+2732,Philadelphia Phillies,New York Yankees,1,0.4959324,0.5040676
+5768,Miami Marlins,San Francisco Giants,1,0.5806787,0.4193213
+983,San Diego Padres,Los Angeles Angels,0,0.4106331,0.5893669
+6626,Pittsburgh Pirates,Philadelphia Phillies,0,0.38955265,0.61044735
+644,Washington Nationals,Philadelphia Phillies,0,0.5571933,0.44280675
+4517,Houston Astros,Atlanta Braves,0,0.98771983,0.012280168
+6370,Atlanta Braves,Washington Nationals,1,0.39113194,0.60886806
+8124,Seattle Mariners,Cleveland Guardians,0,0.43643868,0.5635613
+1300,New York Yankees,Philadelphia Phillies,1,0.5758188,0.42418122
+118,St. Louis Cardinals,Pittsburgh Pirates,1,0.20378041,0.7962196
+7173,Toronto Blue Jays,Chicago Cubs,1,0.19264889,0.8073511
+8731,Los Angeles Angels,Kansas City Royals,0,0.43302166,0.56697834
+1737,Los Angeles Dodgers,Colorado Rockies,1,0.25752938,0.7424706
+7987,St. Louis Cardinals,New York Mets,1,0.40065265,0.59934735
+5875,St. Louis Cardinals,Cincinnati Reds,1,0.4256022,0.5743978
+4068,Detroit Tigers,Milwaukee Brewers,1,0.68599397,0.31400603
+2053,Texas Rangers,Los Angeles Angels,1,0.506294,0.493706
+2944,San Francisco Giants,Oakland Athletics,1,0.4436602,0.5563398
+7219,Pittsburgh Pirates,Toronto Blue Jays,0,0.6228765,0.37712345
+1766,Pittsburgh Pirates,San Diego Padres,0,0.6168927,0.38310727
+1200,Los Angeles Dodgers,Tampa Bay Rays,1,0.108905554,0.89109445
+4295,New York Mets,Miami Marlins,1,0.3267932,0.6732068
+4603,Seattle Mariners,Los Angeles Angels,0,0.4092304,0.5907696
+8721,Los Angeles Angels,Kansas City Royals,1,0.48523653,0.5147635
+3305,Boston Red Sox,New York Yankees,0,0.38087708,0.6191229
+8867,Houston Astros,Philadelphia Phillies,0,0.3985418,0.6014582
+2354,Chicago Cubs,Washington Nationals,1,0.5152494,0.48475066
+1798,Colorado Rockies,New York Mets,0,0.46291494,0.53708506
+6584,Chicago Cubs,Pittsburgh Pirates,1,0.36658496,0.63341504
+6565,Boston Red Sox,Toronto Blue Jays,0,0.48247063,0.51752937
+2203,Houston Astros,Toronto Blue Jays,0,0.43207735,0.56792265
+4917,Pittsburgh Pirates,Washington Nationals,1,0.4695289,0.5304711
+8621,Chicago White Sox,Philadelphia Phillies,0,0.56760716,0.43239284
+3320,Los Angeles Dodgers,Colorado Rockies,1,0.2732079,0.7267921
+3371,Chicago Cubs,Cincinnati Reds,0,0.45958757,0.5404124
+2292,Colorado Rockies,Cincinnati Reds,1,0.597064,0.40293598
+5023,Los Angeles Dodgers,Atlanta Braves,1,0.427431,0.572569
+7247,Atlanta Braves,Miami Marlins,1,0.46405286,0.53594714
+6599,Oakland Athletics,Houston Astros,1,0.6512368,0.34876323
+8108,San Diego Padres,Colorado Rockies,1,0.38888323,0.61111677
+839,Texas Rangers,Oakland Athletics,0,0.6139394,0.38606063
+4829,Philadelphia Phillies,Oakland Athletics,1,0.2607543,0.7392457
+629,Tampa Bay Rays,Toronto Blue Jays,0,0.27998942,0.7200106
+3577,Houston Astros,Colorado Rockies,1,0.3172148,0.6827852
+6106,St. Louis Cardinals,Chicago Cubs,0,0.4886871,0.5113129
+4717,Oakland Athletics,Kansas City Royals,0,0.46195596,0.53804404
+1069,Atlanta Braves,Cincinnati Reds,1,0.38223583,0.6177642
+4518,Houston Astros,Atlanta Braves,0,0.98771983,0.012280168
+2357,Texas Rangers,New York Yankees,0,0.5168488,0.48315117
+1102,Los Angeles Dodgers,Atlanta Braves,1,0.31148088,0.6885191
+1455,Oakland Athletics,Houston Astros,0,0.4788605,0.5211395
+2962,Miami Marlins,Washington Nationals,0,0.5270424,0.4729576
+8062,Houston Astros,Chicago White Sox,0,0.36826694,0.63173306
+179,Los Angeles Dodgers,San Francisco Giants,1,0.09363848,0.9063615
+8161,Miami Marlins,Minnesota Twins,1,0.4064834,0.5935166
+3633,Boston Red Sox,Baltimore Orioles,1,0.19547689,0.8045231
+2980,St. Louis Cardinals,Arizona Diamondbacks,1,0.44389558,0.5561044
+2843,Los Angeles Angels,Detroit Tigers,1,0.44283813,0.55716187
+2247,San Francisco Giants,Texas Rangers,1,0.33916658,0.6608334
+1670,Arizona Diamondbacks,Oakland Athletics,0,0.60461533,0.39538464
+6289,Oakland Athletics,Toronto Blue Jays,0,0.42400146,0.57599854
+1592,Chicago Cubs,Milwaukee Brewers,1,0.43818521,0.5618148
+8653,Milwaukee Brewers,Boston Red Sox,0,0.46726823,0.5327318
+3261,New York Yankees,Philadelphia Phillies,1,0.59761435,0.40238565
+8750,Los Angeles Angels,Kansas City Royals,1,0.52336216,0.4766378
+7917,Houston Astros,Philadelphia Phillies,1,0.022052824,0.9779472
+6827,Colorado Rockies,St. Louis Cardinals,1,0.5012921,0.4987079
+1394,Washington Nationals,St. Louis Cardinals,1,0.47735322,0.5226468
+8692,Milwaukee Brewers,Boston Red Sox,0,0.4826473,0.5173527
+7873,Houston Astros,Philadelphia Phillies,1,0.022052824,0.9779472
+3231,Chicago White Sox,Houston Astros,1,0.4604633,0.5395367
+5198,San Francisco Giants,Washington Nationals,0,0.2044084,0.7955916
+3997,Oakland Athletics,Chicago White Sox,1,0.43126744,0.56873256
+5581,Cincinnati Reds,Chicago Cubs,0,0.6221393,0.37786072
+7118,St. Louis Cardinals,Atlanta Braves,0,0.59157085,0.40842912
+6231,Cincinnati Reds,Atlanta Braves,0,0.69855654,0.3014435
+5647,Oakland Athletics,Texas Rangers,0,0.4942404,0.5057596
+1318,Texas Rangers,Seattle Mariners,1,0.51852536,0.48147467
+5656,San Diego Padres,Pittsburgh Pirates,1,0.22452813,0.77547187
+2455,Chicago White Sox,St. Louis Cardinals,1,0.42116034,0.57883966
+6608,Baltimore Orioles,Tampa Bay Rays,0,0.464536,0.535464
+5894,Seattle Mariners,Boston Red Sox,0,0.4927522,0.5072478
+4867,San Francisco Giants,Miami Marlins,1,0.4853891,0.5146109
+1540,Philadelphia Phillies,New York Mets,0,0.45180768,0.5481923
+768,Baltimore Orioles,New York Yankees,1,0.66510355,0.33489645
+8886,Colorado Rockies,Arizona Diamondbacks,0,0.38487005,0.61512995
+8532,St. Louis Cardinals,Pittsburgh Pirates,1,0.5428974,0.4571026
+8936,Chicago White Sox,Tampa Bay Rays,1,0.6061372,0.39386278
+6705,New York Yankees,Seattle Mariners,0,0.4606058,0.5393942
+770,Oakland Athletics,San Diego Padres,0,0.48058957,0.51941043
+2206,Chicago Cubs,Pittsburgh Pirates,1,0.38748646,0.61251354
+2488,Houston Astros,Los Angeles Dodgers,1,0.66771686,0.33228317
+7748,Oakland Athletics,Los Angeles Angels,1,0.6668063,0.33319372
+5255,Colorado Rockies,Washington Nationals,1,0.318985,0.681015
+2636,Atlanta Braves,Los Angeles Dodgers,1,0.56450665,0.43549332
+1191,Los Angeles Dodgers,Tampa Bay Rays,1,0.108905554,0.89109445
+8734,Arizona Diamondbacks,San Diego Padres,0,0.6273683,0.37263173
+5142,Minnesota Twins,Detroit Tigers,1,0.3957774,0.6042226
+7939,Houston Astros,Philadelphia Phillies,1,0.022052824,0.9779472
+5882,Kansas City Royals,Baltimore Orioles,1,0.54738647,0.45261353
+5633,Oakland Athletics,Texas Rangers,0,0.49875164,0.50124836
+5985,Los Angeles Dodgers,Cleveland Guardians,1,0.24224395,0.75775605
+8910,Chicago White Sox,Tampa Bay Rays,0,0.3712629,0.6287371
+7583,Arizona Diamondbacks,San Francisco Giants,0,0.49133056,0.50866944
+6103,Minnesota Twins,Colorado Rockies,1,0.4886871,0.5113129
+6538,New York Mets,San Diego Padres,0,0.47536635,0.52463365
+303,Oakland Athletics,Colorado Rockies,0,0.5362478,0.4637522
+1172,Los Angeles Dodgers,Tampa Bay Rays,1,0.108905554,0.89109445
+3556,New York Mets,Washington Nationals,1,0.32284188,0.6771581
+2574,Arizona Diamondbacks,New York Mets,0,0.42180395,0.57819605
+8576,Detroit Tigers,Cleveland Guardians,1,0.74663794,0.25336203
+8082,Cincinnati Reds,Pittsburgh Pirates,1,0.35249352,0.6475065
+3095,San Francisco Giants,St. Louis Cardinals,0,0.41560555,0.58439445
+1696,Houston Astros,Detroit Tigers,0,0.5133378,0.4866622
+3159,Houston Astros,New York Yankees,0,0.48336124,0.51663876
+5598,St. Louis Cardinals,Toronto Blue Jays,0,0.5885172,0.41148284
+3522,San Diego Padres,Arizona Diamondbacks,1,0.12702316,0.87297684
+7380,Philadelphia Phillies,Washington Nationals,1,0.38275075,0.61724925
+8242,Philadelphia Phillies,Cincinnati Reds,1,0.38888323,0.61111677
+6564,New York Mets,San Diego Padres,1,0.48114592,0.5188541
+1185,Los Angeles Dodgers,Tampa Bay Rays,1,0.108905554,0.89109445
+8029,Texas Rangers,Philadelphia Phillies,1,0.42944372,0.5705563
+495,Houston Astros,Seattle Mariners,1,0.4574923,0.5425077
+1208,Los Angeles Dodgers,Tampa Bay Rays,1,0.108905554,0.89109445
+8812,Arizona Diamondbacks,Kansas City Royals,1,0.37744707,0.62255293
+8921,Minnesota Twins,Kansas City Royals,1,0.21498251,0.7850175
+3591,Baltimore Orioles,Detroit Tigers,0,0.46468842,0.5353116
+2189,Kansas City Royals,Cleveland Indians,0,0.42488998,0.57511
+6734,Los Angeles Angels,Oakland Athletics,0,0.2867219,0.7132781
+8140,Oakland Athletics,Cleveland Guardians,0,0.69472045,0.30527955
+5733,Milwaukee Brewers,San Diego Padres,1,0.5105165,0.4894835
+8392,Pittsburgh Pirates,Houston Astros,0,0.5451187,0.4548813
+8650,Atlanta Braves,Houston Astros,0,0.50952625,0.49047375
+3524,Houston Astros,Minnesota Twins,0,0.45390838,0.5460916
+2212,Atlanta Braves,Philadelphia Phillies,0,0.3562352,0.6437648
+7837,New York Yankees,Houston Astros,0,0.45883304,0.54116696
+4003,Baltimore Orioles,Kansas City Royals,0,0.5041475,0.49585247
+5371,Cincinnati Reds,Milwaukee Brewers,1,0.47984374,0.52015626
+6048,Houston Astros,New York Mets,1,0.45640326,0.54359674
+8678,New York Yankees,Toronto Blue Jays,1,0.4511447,0.5488553
+5925,Philadelphia Phillies,Miami Marlins,0,0.47924358,0.5207564
+4601,Cincinnati Reds,Oakland Athletics,1,0.4092304,0.5907696
+7685,San Diego Padres,Chicago White Sox,0,0.39226806,0.60773194
+681,Arizona Diamondbacks,Colorado Rockies,0,0.44722664,0.55277336
+5443,Minnesota Twins,Cleveland Guardians,1,0.37001425,0.62998575
+8688,Pittsburgh Pirates,Cincinnati Reds,1,0.4511447,0.5488553
+653,Milwaukee Brewers,Cincinnati Reds,1,0.4380548,0.5619452
+6795,Baltimore Orioles,Pittsburgh Pirates,0,0.4151544,0.5848456
+176,Kansas City Royals,Houston Astros,0,0.45169264,0.54830736
+7082,Colorado Rockies,Texas Rangers,0,0.40688527,0.59311473
+5969,Detroit Tigers,Texas Rangers,0,0.61310375,0.38689628
+809,Arizona Diamondbacks,Los Angeles Dodgers,0,0.5560502,0.44394985
+3089,Chicago Cubs,Philadelphia Phillies,0,0.42180395,0.57819605
+457,Cleveland Indians,Chicago Cubs,0,0.38102072,0.6189793
+7692,Washington Nationals,Philadelphia Phillies,1,0.66268945,0.33731058
+7547,Kansas City Royals,Minnesota Twins,1,0.46780205,0.53219795
+344,Kansas City Royals,Chicago White Sox,0,0.5131043,0.48689568
+1736,Chicago White Sox,Cleveland Indians,0,0.43818521,0.5618148
+91,Texas Rangers,Colorado Rockies,1,0.3923424,0.6076576
+4498,Houston Astros,Atlanta Braves,0,0.98771983,0.012280168
+5796,New York Yankees,Detroit Tigers,1,0.14070886,0.85929114
+8786,Cincinnati Reds,Texas Rangers,1,0.75968564,0.24031438
+4547,Houston Astros,Atlanta Braves,0,0.98771983,0.012280168
+2742,Oakland Athletics,Kansas City Royals,1,0.36030853,0.6396915
+540,Boston Red Sox,Philadelphia Phillies,0,0.5337775,0.46622255
+5675,Los Angeles Angels,Toronto Blue Jays,0,0.46919048,0.5308095
+1023,Chicago White Sox,Chicago Cubs,1,0.5129526,0.48704737
+8156,Seattle Mariners,Los Angeles Angels,0,0.47275096,0.52724904
+5163,Miami Marlins,Seattle Mariners,1,0.53387046,0.46612954
+8127,Texas Rangers,Philadelphia Phillies,1,0.4469366,0.5530634
+7947,Houston Astros,Philadelphia Phillies,1,0.022052824,0.9779472
+7269,Arizona Diamondbacks,Milwaukee Brewers,0,0.35619754,0.64380246
+1708,St. Louis Cardinals,Washington Nationals,0,0.43818521,0.5618148
+106,Los Angeles Dodgers,San Francisco Giants,1,0.07491833,0.9250817
+2616,Chicago White Sox,Detroit Tigers,1,0.44469732,0.5553027
+5992,Toronto Blue Jays,New York Yankees,0,0.44080055,0.55919945
+1487,Oakland Athletics,Houston Astros,0,0.49425447,0.50574553
+1045,Minnesota Twins,Cincinnati Reds,0,0.38223583,0.6177642
+6619,Colorado Rockies,Chicago White Sox,0,0.38150996,0.61849004
+131,New York Mets,Atlanta Braves,1,0.3378762,0.6621238
+2259,Cleveland Indians,Chicago Cubs,1,0.32192916,0.67807084
+7131,Philadelphia Phillies,Pittsburgh Pirates,1,0.32752025,0.67247975
+6224,Chicago Cubs,Boston Red Sox,1,0.57844114,0.42155886
+4174,Los Angeles Angels,Houston Astros,0,0.5390961,0.46090385
+5041,Kansas City Royals,Minnesota Twins,1,0.69822836,0.30177164
+5999,Washington Nationals,Philadelphia Phillies,0,0.63556755,0.36443245
+7889,Houston Astros,Philadelphia Phillies,1,0.022052824,0.9779472
+5268,Cleveland Guardians,Toronto Blue Jays,1,0.61542547,0.38457456
+1993,Los Angeles Dodgers,San Diego Padres,0,0.30854303,0.691457
+8258,San Francisco Giants,Kansas City Royals,0,0.43922263,0.56077737
+3104,Houston Astros,Oakland Athletics,1,0.43797803,0.562022
+6182,New York Mets,Houston Astros,0,0.6288544,0.37114564
+2669,Chicago White Sox,Toronto Blue Jays,1,0.4349743,0.5650257
+6751,Philadelphia Phillies,Washington Nationals,1,0.32941425,0.67058575
+3944,Colorado Rockies,Atlanta Braves,1,0.59741294,0.4025871
+3641,New York Mets,Los Angeles Dodgers,0,0.64419794,0.3558021
+717,Milwaukee Brewers,Detroit Tigers,0,0.37699795,0.62300205
+3386,Chicago Cubs,Cincinnati Reds,0,0.61492753,0.38507244
+6177,New York Yankees,Oakland Athletics,1,0.39381993,0.6061801
+6191,Philadelphia Phillies,Atlanta Braves,0,0.5040407,0.49595925
+167,Oakland Athletics,Los Angeles Angels,1,0.3412994,0.6587006
+6957,Los Angeles Angels,Seattle Mariners,0,0.6538378,0.3461622
+374,Pittsburgh Pirates,Minnesota Twins,0,0.57659775,0.42340225
+7957,Houston Astros,Philadelphia Phillies,1,0.022052824,0.9779472
+6972,Milwaukee Brewers,Los Angeles Dodgers,1,0.72468644,0.27531356
+7179,Cleveland Guardians,Baltimore Orioles,1,0.44889975,0.55110025
+2823,Colorado Rockies,Milwaukee Brewers,1,0.5260942,0.47390577
+860,St. Louis Cardinals,Cincinnati Reds,1,0.3982864,0.6017136
+1738,Minnesota Twins,Boston Red Sox,0,0.45199996,0.54800004
+7810,Los Angeles Dodgers,San Diego Padres,0,0.35182613,0.64817387
+5628,Tampa Bay Rays,New York Yankees,0,0.47353476,0.52646524
+2137,Pittsburgh Pirates,St. Louis Cardinals,0,0.57223165,0.42776838
+2385,Oakland Athletics,Houston Astros,1,0.407826,0.592174
+4919,New York Yankees,Toronto Blue Jays,1,0.48842174,0.51157826
+3761,Oakland Athletics,Seattle Mariners,0,0.42166835,0.57833165
+2627,Toronto Blue Jays,Houston Astros,1,0.5173551,0.48264492
+5512,Los Angeles Angels,Oakland Athletics,0,0.4425475,0.5574525
+4089,Kansas City Royals,Oakland Athletics,0,0.6166482,0.38335177
+6589,New York Mets,New York Yankees,1,0.42090195,0.57909805
+5557,Milwaukee Brewers,Washington Nationals,0,0.2272014,0.7727986
+3917,Toronto Blue Jays,Oakland Athletics,1,0.3941812,0.6058188
+7467,Cleveland Guardians,Minnesota Twins,1,0.2694685,0.7305315
+5764,Baltimore Orioles,Cleveland Guardians,1,0.63740456,0.36259547
+2529,Arizona Diamondbacks,St. Louis Cardinals,1,0.4678595,0.5321405
+6688,Washington Nationals,St. Louis Cardinals,0,0.38966525,0.61033475
+6869,Detroit Tigers,Cleveland Guardians,0,0.6164923,0.38350776
+5413,Los Angeles Dodgers,Philadelphia Phillies,0,0.25453627,0.7454637
+8162,New York Yankees,Philadelphia Phillies,0,0.4064834,0.5935166
+6928,San Francisco Giants,Pittsburgh Pirates,1,0.2392174,0.7607826
+100,Oakland Athletics,Los Angeles Angels,1,0.3378762,0.6621238
+8467,Oakland Athletics,New York Mets,0,0.7701747,0.22982533
+5090,Oakland Athletics,Texas Rangers,1,0.49801373,0.50198627
+6157,Cleveland Guardians,Minnesota Twins,1,0.48161316,0.51838684
+4566,Houston Astros,Atlanta Braves,0,0.98771983,0.012280168
+3275,Toronto Blue Jays,Boston Red Sox,0,0.3757618,0.6242382
+5786,Kansas City Royals,Houston Astros,0,0.57803607,0.4219639
+1595,Seattle Mariners,Chicago White Sox,0,0.43818521,0.5618148
+2400,Baltimore Orioles,Tampa Bay Rays,0,0.57150215,0.42849785
+5088,Detroit Tigers,Colorado Rockies,1,0.4069457,0.5930543
+6604,Milwaukee Brewers,Minnesota Twins,1,0.5000057,0.49999428
+8180,Miami Marlins,Minnesota Twins,1,0.465163,0.534837
+4694,Colorado Rockies,Los Angeles Angels,0,0.422723,0.577277
+1254,Kansas City Royals,Chicago White Sox,1,0.49196666,0.50803334
+4026,Houston Astros,Los Angeles Angels,0,0.30964142,0.6903586
+1360,Seattle Mariners,Chicago Cubs,0,0.38766336,0.61233664
+8129,Chicago White Sox,San Francisco Giants,0,0.4064834,0.5935166
+3228,Colorado Rockies,Los Angeles Dodgers,1,0.8289463,0.17105372
+1525,Philadelphia Phillies,New York Mets,1,0.42665648,0.5733435
+6893,Washington Nationals,San Diego Padres,1,0.7704316,0.22956844
+5857,New York Yankees,Chicago Cubs,1,0.20238543,0.7976146
+2473,Chicago White Sox,St. Louis Cardinals,0,0.43207735,0.56792265
+3345,Los Angeles Angels,Colorado Rockies,1,0.3436228,0.6563772
+8087,San Diego Padres,Colorado Rockies,1,0.15136957,0.8486304
+7019,Oakland Athletics,Seattle Mariners,1,0.53309596,0.46690407
+1610,Los Angeles Dodgers,Washington Nationals,1,0.2526874,0.7473126
+2670,St. Louis Cardinals,Cleveland Indians,0,0.5757813,0.4242187
+6896,Kansas City Royals,Los Angeles Dodgers,0,0.7230997,0.27690026
+2921,Toronto Blue Jays,Baltimore Orioles,0,0.30788654,0.69211346
+8128,Milwaukee Brewers,New York Mets,1,0.46397108,0.5360289
