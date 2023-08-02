@@ -10,3 +10,13 @@ xgboost
 
 tensorflow
 matplotlib
+
+catboost
+
+beautifulsoup4
+
+MLB-StatsApi
+
+redis
+
+shap

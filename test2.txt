@@ -1,0 +1,8 @@
+'home_Current_win_pct', 
+'home_prev_win_pct', 
+'home_Rolling_10D_win', 
+'home_Rolling_30D_win', 
+'away_Current_win_pct', 
+'away_prev_win_pct',
+ 'away_Rolling_10D_win',
+  'away_Rolling_30D_win']

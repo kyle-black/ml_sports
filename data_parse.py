@@ -10,7 +10,7 @@ from datetime import datetime
 Base = declarative_base()
 
 class Game(Base):
-    __tablename__ = 'past_games_update2'
+    __tablename__ = 'past_games_update_4'
 
     id = Column(Integer, Sequence('game_id_seq'), primary_key=True)
     game_date = Column(DateTime)
@@ -40,7 +40,7 @@ session = Session()
 
 # Insert the data into the table
 start_date = '2023-01-01'
-end_date = '2023-12-31'
+end_date = '2023-07-05'
 data = requests.get(f'https://statsapi.mlb.com/api/v1/schedule?startDate={start_date}&endDate={end_date}&sportId=1')
 json_data = data.json()
 dates = json_data['dates']
@@ -57,7 +57,7 @@ for date in dates:
         away_score = game['teams']['away'].get('score', 'Unknown')
         home_is_winner = game['teams']['home'].get('isWinner','Unknown')
         away_is_winner = game['teams']['away'].get('isWinner','Unknown')
-        commence_time = game['gameDate']
+        commence_time = game['officialDate']
 
         new_game = Game(
             game_date=game_date,
